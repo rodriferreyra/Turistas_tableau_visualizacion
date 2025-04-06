@@ -1,0 +1,2971 @@
+indice_tiempo;medio_de_transporte;pais_destino;viajes_de_turistas_residentes
+1/1/2016;Aérea;Bolivia;4196
+1/1/2016;Aérea;Brasil;104681
+1/1/2016;Aérea;Chile;28185
+1/1/2016;Aérea;Paraguay;3093
+1/1/2016;Aérea;Uruguay;15601
+1/1/2016;Aérea;EE.UU. y Canadá;55222
+1/1/2016;Aérea;Resto de América;76330
+1/1/2016;Aérea;Europa;32038
+1/1/2016;Aérea;Resto del mundo;12649
+1/1/2016;Fluvial/Marítima;Bolivia;6496
+1/1/2016;Fluvial/Marítima;Brasil;27243
+1/1/2016;Fluvial/Marítima;Chile;11519
+1/1/2016;Fluvial/Marítima;Paraguay;9920
+1/1/2016;Fluvial/Marítima;Uruguay;102277
+1/1/2016;Fluvial/Marítima;EE.UU. y Canadá;1210
+1/1/2016;Fluvial/Marítima;Resto de América;334
+1/1/2016;Fluvial/Marítima;Europa;733
+1/1/2016;Fluvial/Marítima;Resto del mundo;84
+1/1/2016;Terrestre;Bolivia;50456
+1/1/2016;Terrestre;Brasil;361086
+1/1/2016;Terrestre;Chile;335435
+1/1/2016;Terrestre;Paraguay;128491
+1/1/2016;Terrestre;Uruguay;168571
+1/1/2016;Terrestre;EE.UU. y Canadá;279
+1/1/2016;Terrestre;Resto de América;3666
+1/1/2016;Terrestre;Europa;520
+1/1/2016;Terrestre;Resto del mundo;234
+1/2/2016;Aérea;Bolivia;6287
+1/2/2016;Aérea;Brasil;101688
+1/2/2016;Aérea;Chile;28663
+1/2/2016;Aérea;Paraguay;2604
+1/2/2016;Aérea;Uruguay;12678
+1/2/2016;Aérea;EE.UU. y Canadá;60999
+1/2/2016;Aérea;Resto de América;86741
+1/2/2016;Aérea;Europa;43823
+1/2/2016;Aérea;Resto del mundo;15606
+1/2/2016;Fluvial/Marítima;Bolivia;4774
+1/2/2016;Fluvial/Marítima;Brasil;27396
+1/2/2016;Fluvial/Marítima;Chile;12530
+1/2/2016;Fluvial/Marítima;Paraguay;9692
+1/2/2016;Fluvial/Marítima;Uruguay;100631
+1/2/2016;Fluvial/Marítima;EE.UU. y Canadá;718
+1/2/2016;Fluvial/Marítima;Resto de América;1080
+1/2/2016;Fluvial/Marítima;Europa;369
+1/2/2016;Fluvial/Marítima;Resto del mundo;116
+1/2/2016;Terrestre;Bolivia;63329
+1/2/2016;Terrestre;Brasil;328557
+1/2/2016;Terrestre;Chile;313945
+1/2/2016;Terrestre;Paraguay;97491
+1/2/2016;Terrestre;Uruguay;177215
+1/2/2016;Terrestre;EE.UU. y Canadá;230
+1/2/2016;Terrestre;Resto de América;3023
+1/2/2016;Terrestre;Europa;429
+1/2/2016;Terrestre;Resto del mundo;193
+1/3/2016;Aérea;Bolivia;4249
+1/3/2016;Aérea;Brasil;98355
+1/3/2016;Aérea;Chile;25517
+1/3/2016;Aérea;Paraguay;2338
+1/3/2016;Aérea;Uruguay;7081
+1/3/2016;Aérea;EE.UU. y Canadá;70368
+1/3/2016;Aérea;Resto de América;70845
+1/3/2016;Aérea;Europa;45705
+1/3/2016;Aérea;Resto del mundo;16015
+1/3/2016;Fluvial/Marítima;Bolivia;6323
+1/3/2016;Fluvial/Marítima;Brasil;10690
+1/3/2016;Fluvial/Marítima;Chile;4854
+1/3/2016;Fluvial/Marítima;Paraguay;7566
+1/3/2016;Fluvial/Marítima;Uruguay;63288
+1/3/2016;Fluvial/Marítima;EE.UU. y Canadá;95
+1/3/2016;Fluvial/Marítima;Resto de América;184
+1/3/2016;Fluvial/Marítima;Europa;50
+1/3/2016;Fluvial/Marítima;Resto del mundo;16
+1/3/2016;Terrestre;Bolivia;34113
+1/3/2016;Terrestre;Brasil;136954
+1/3/2016;Terrestre;Chile;193075
+1/3/2016;Terrestre;Paraguay;68557
+1/3/2016;Terrestre;Uruguay;90377
+1/3/2016;Terrestre;EE.UU. y Canadá;230
+1/3/2016;Terrestre;Resto de América;3027
+1/3/2016;Terrestre;Europa;429
+1/3/2016;Terrestre;Resto del mundo;193
+1/4/2016;Aérea;Bolivia;3201
+1/4/2016;Aérea;Brasil;66140
+1/4/2016;Aérea;Chile;22725
+1/4/2016;Aérea;Paraguay;2868
+1/4/2016;Aérea;Uruguay;5121
+1/4/2016;Aérea;EE.UU. y Canadá;65311
+1/4/2016;Aérea;Resto de América;67930
+1/4/2016;Aérea;Europa;44351
+1/4/2016;Aérea;Resto del mundo;14921
+1/4/2016;Fluvial/Marítima;Bolivia;5602
+1/4/2016;Fluvial/Marítima;Brasil;3867
+1/4/2016;Fluvial/Marítima;Chile;136
+1/4/2016;Fluvial/Marítima;Paraguay;6473
+1/4/2016;Fluvial/Marítima;Uruguay;25137
+1/4/2016;Fluvial/Marítima;EE.UU. y Canadá;114
+1/4/2016;Fluvial/Marítima;Resto de América;249
+1/4/2016;Fluvial/Marítima;Europa;56
+1/4/2016;Fluvial/Marítima;Resto del mundo;17
+1/4/2016;Terrestre;Bolivia;28300
+1/4/2016;Terrestre;Brasil;53902
+1/4/2016;Terrestre;Chile;113887
+1/4/2016;Terrestre;Paraguay;66681
+1/4/2016;Terrestre;Uruguay;27907
+1/4/2016;Terrestre;EE.UU. y Canadá;97
+1/4/2016;Terrestre;Resto de América;1277
+1/4/2016;Terrestre;Europa;181
+1/4/2016;Terrestre;Resto del mundo;81
+1/5/2016;Aérea;Bolivia;2899
+1/5/2016;Aérea;Brasil;49450
+1/5/2016;Aérea;Chile;25059
+1/5/2016;Aérea;Paraguay;3496
+1/5/2016;Aérea;Uruguay;5593
+1/5/2016;Aérea;EE.UU. y Canadá;76281
+1/5/2016;Aérea;Resto de América;67362
+1/5/2016;Aérea;Europa;59681
+1/5/2016;Aérea;Resto del mundo;12322
+1/5/2016;Fluvial/Marítima;Bolivia;7407
+1/5/2016;Fluvial/Marítima;Brasil;6240
+1/5/2016;Fluvial/Marítima;Chile;41
+1/5/2016;Fluvial/Marítima;Paraguay;8086
+1/5/2016;Fluvial/Marítima;Uruguay;26017
+1/5/2016;Fluvial/Marítima;EE.UU. y Canadá;140
+1/5/2016;Fluvial/Marítima;Resto de América;342
+1/5/2016;Fluvial/Marítima;Europa;107
+1/5/2016;Fluvial/Marítima;Resto del mundo;14
+1/5/2016;Terrestre;Bolivia;28363
+1/5/2016;Terrestre;Brasil;35830
+1/5/2016;Terrestre;Chile;93967
+1/5/2016;Terrestre;Paraguay;70291
+1/5/2016;Terrestre;Uruguay;25707
+1/5/2016;Terrestre;EE.UU. y Canadá;14
+1/5/2016;Terrestre;Resto de América;185
+1/5/2016;Terrestre;Europa;26
+1/5/2016;Terrestre;Resto del mundo;11
+1/6/2016;Aérea;Bolivia;2355
+1/6/2016;Aérea;Brasil;41792
+1/6/2016;Aérea;Chile;29914
+1/6/2016;Aérea;Paraguay;3457
+1/6/2016;Aérea;Uruguay;5473
+1/6/2016;Aérea;EE.UU. y Canadá;74201
+1/6/2016;Aérea;Resto de América;61876
+1/6/2016;Aérea;Europa;77750
+1/6/2016;Aérea;Resto del mundo;9376
+1/6/2016;Fluvial/Marítima;Bolivia;8964
+1/6/2016;Fluvial/Marítima;Brasil;3975
+1/6/2016;Fluvial/Marítima;Chile;31
+1/6/2016;Fluvial/Marítima;Paraguay;8875
+1/6/2016;Fluvial/Marítima;Uruguay;26407
+1/6/2016;Fluvial/Marítima;EE.UU. y Canadá;124
+1/6/2016;Fluvial/Marítima;Resto de América;336
+1/6/2016;Fluvial/Marítima;Europa;158
+1/6/2016;Fluvial/Marítima;Resto del mundo;12
+1/6/2016;Terrestre;Bolivia;28099
+1/6/2016;Terrestre;Brasil;39835
+1/6/2016;Terrestre;Chile;63002
+1/6/2016;Terrestre;Paraguay;74236
+1/6/2016;Terrestre;Uruguay;31486
+1/6/2016;Terrestre;EE.UU. y Canadá;61
+1/6/2016;Terrestre;Resto de América;808
+1/6/2016;Terrestre;Europa;114
+1/6/2016;Terrestre;Resto del mundo;51
+1/7/2016;Aérea;Bolivia;3731
+1/7/2016;Aérea;Brasil;57666
+1/7/2016;Aérea;Chile;44808
+1/7/2016;Aérea;Paraguay;3166
+1/7/2016;Aérea;Uruguay;4694
+1/7/2016;Aérea;EE.UU. y Canadá;66306
+1/7/2016;Aérea;Resto de América;64944
+1/7/2016;Aérea;Europa;73738
+1/7/2016;Aérea;Resto del mundo;9500
+1/7/2016;Fluvial/Marítima;Bolivia;10536
+1/7/2016;Fluvial/Marítima;Brasil;7590
+1/7/2016;Fluvial/Marítima;Chile;67
+1/7/2016;Fluvial/Marítima;Paraguay;13564
+1/7/2016;Fluvial/Marítima;Uruguay;35164
+1/7/2016;Fluvial/Marítima;EE.UU. y Canadá;940
+1/7/2016;Fluvial/Marítima;Resto de América;1325
+1/7/2016;Fluvial/Marítima;Europa;878
+1/7/2016;Fluvial/Marítima;Resto del mundo;90
+1/7/2016;Terrestre;Bolivia;47167
+1/7/2016;Terrestre;Brasil;107121
+1/7/2016;Terrestre;Chile;127320
+1/7/2016;Terrestre;Paraguay;112766
+1/7/2016;Terrestre;Uruguay;53312
+1/7/2016;Terrestre;EE.UU. y Canadá;315
+1/7/2016;Terrestre;Resto de América;1286
+1/7/2016;Terrestre;Europa;182
+1/7/2016;Terrestre;Resto del mundo;82
+1/8/2016;Aérea;Bolivia;3907
+1/8/2016;Aérea;Brasil;50559
+1/8/2016;Aérea;Chile;35652
+1/8/2016;Aérea;Paraguay;3614
+1/8/2016;Aérea;Uruguay;5705
+1/8/2016;Aérea;EE.UU. y Canadá;76418
+1/8/2016;Aérea;Resto de América;63126
+1/8/2016;Aérea;Europa;73131
+1/8/2016;Aérea;Resto del mundo;13219
+1/8/2016;Fluvial/Marítima;Bolivia;7621
+1/8/2016;Fluvial/Marítima;Brasil;4313
+1/8/2016;Fluvial/Marítima;Chile;42
+1/8/2016;Fluvial/Marítima;Paraguay;8830
+1/8/2016;Fluvial/Marítima;Uruguay;27354
+1/8/2016;Fluvial/Marítima;EE.UU. y Canadá;465
+1/8/2016;Fluvial/Marítima;Resto de América;753
+1/8/2016;Fluvial/Marítima;Europa;563
+1/8/2016;Fluvial/Marítima;Resto del mundo;43
+1/8/2016;Terrestre;Bolivia;39846
+1/8/2016;Terrestre;Brasil;51112
+1/8/2016;Terrestre;Chile;98873
+1/8/2016;Terrestre;Paraguay;76798
+1/8/2016;Terrestre;Uruguay;35778
+1/8/2016;Terrestre;EE.UU. y Canadá;160
+1/8/2016;Terrestre;Resto de América;851
+1/8/2016;Terrestre;Europa;120
+1/8/2016;Terrestre;Resto del mundo;54
+1/9/2016;Aérea;Bolivia;3412
+1/9/2016;Aérea;Brasil;48537
+1/9/2016;Aérea;Chile;36402
+1/9/2016;Aérea;Paraguay;3086
+1/9/2016;Aérea;Uruguay;5932
+1/9/2016;Aérea;EE.UU. y Canadá;72483
+1/9/2016;Aérea;Resto de América;58014
+1/9/2016;Aérea;Europa;72818
+1/9/2016;Aérea;Resto del mundo;11711
+1/9/2016;Fluvial/Marítima;Bolivia;7584
+1/9/2016;Fluvial/Marítima;Brasil;3814
+1/9/2016;Fluvial/Marítima;Chile;49
+1/9/2016;Fluvial/Marítima;Paraguay;8795
+1/9/2016;Fluvial/Marítima;Uruguay;30726
+1/9/2016;Fluvial/Marítima;EE.UU. y Canadá;301
+1/9/2016;Fluvial/Marítima;Resto de América;418
+1/9/2016;Fluvial/Marítima;Europa;328
+1/9/2016;Fluvial/Marítima;Resto del mundo;24
+1/9/2016;Terrestre;Bolivia;34528
+1/9/2016;Terrestre;Brasil;59953
+1/9/2016;Terrestre;Chile;112551
+1/9/2016;Terrestre;Paraguay;63970
+1/9/2016;Terrestre;Uruguay;36017
+1/9/2016;Terrestre;EE.UU. y Canadá;313
+1/9/2016;Terrestre;Resto de América;2622
+1/9/2016;Terrestre;Europa;372
+1/9/2016;Terrestre;Resto del mundo;167
+1/10/2016;Aérea;Bolivia;3055
+1/10/2016;Aérea;Brasil;67796
+1/10/2016;Aérea;Chile;47213
+1/10/2016;Aérea;Paraguay;4090
+1/10/2016;Aérea;Uruguay;7111
+1/10/2016;Aérea;EE.UU. y Canadá;79955
+1/10/2016;Aérea;Resto de América;60338
+1/10/2016;Aérea;Europa;76781
+1/10/2016;Aérea;Resto del mundo;10486
+1/10/2016;Fluvial/Marítima;Bolivia;5852
+1/10/2016;Fluvial/Marítima;Brasil;4567
+1/10/2016;Fluvial/Marítima;Chile;36
+1/10/2016;Fluvial/Marítima;Paraguay;10650
+1/10/2016;Fluvial/Marítima;Uruguay;43765
+1/10/2016;Fluvial/Marítima;EE.UU. y Canadá;268
+1/10/2016;Fluvial/Marítima;Resto de América;383
+1/10/2016;Fluvial/Marítima;Europa;282
+1/10/2016;Fluvial/Marítima;Resto del mundo;21
+1/10/2016;Terrestre;Bolivia;29937
+1/10/2016;Terrestre;Brasil;63224
+1/10/2016;Terrestre;Chile;160443
+1/10/2016;Terrestre;Paraguay;81566
+1/10/2016;Terrestre;Uruguay;51171
+1/10/2016;Terrestre;EE.UU. y Canadá;75
+1/10/2016;Terrestre;Resto de América;989
+1/10/2016;Terrestre;Europa;140
+1/10/2016;Terrestre;Resto del mundo;63
+1/11/2016;Aérea;Bolivia;2963
+1/11/2016;Aérea;Brasil;61497
+1/11/2016;Aérea;Chile;43381
+1/11/2016;Aérea;Paraguay;4016
+1/11/2016;Aérea;Uruguay;8159
+1/11/2016;Aérea;EE.UU. y Canadá;57940
+1/11/2016;Aérea;Resto de América;59793
+1/11/2016;Aérea;Europa;47276
+1/11/2016;Aérea;Resto del mundo;11214
+1/11/2016;Fluvial/Marítima;Bolivia;5699
+1/11/2016;Fluvial/Marítima;Brasil;4319
+1/11/2016;Fluvial/Marítima;Chile;780
+1/11/2016;Fluvial/Marítima;Paraguay;9907
+1/11/2016;Fluvial/Marítima;Uruguay;48930
+1/11/2016;Fluvial/Marítima;EE.UU. y Canadá;110
+1/11/2016;Fluvial/Marítima;Resto de América;155
+1/11/2016;Fluvial/Marítima;Europa;115
+1/11/2016;Fluvial/Marítima;Resto del mundo;8
+1/11/2016;Terrestre;Bolivia;27246
+1/11/2016;Terrestre;Brasil;51037
+1/11/2016;Terrestre;Chile;148819
+1/11/2016;Terrestre;Paraguay;72382
+1/11/2016;Terrestre;Uruguay;54640
+1/11/2016;Terrestre;EE.UU. y Canadá;63
+1/11/2016;Terrestre;Resto de América;828
+1/11/2016;Terrestre;Europa;117
+1/11/2016;Terrestre;Resto del mundo;52
+1/12/2016;Aérea;Bolivia;2783
+1/12/2016;Aérea;Brasil;64189
+1/12/2016;Aérea;Chile;40482
+1/12/2016;Aérea;Paraguay;3490
+1/12/2016;Aérea;Uruguay;9779
+1/12/2016;Aérea;EE.UU. y Canadá;58767
+1/12/2016;Aérea;Resto de América;58849
+1/12/2016;Aérea;Europa;33914
+1/12/2016;Aérea;Resto del mundo;11545
+1/12/2016;Fluvial/Marítima;Bolivia;8449
+1/12/2016;Fluvial/Marítima;Brasil;14238
+1/12/2016;Fluvial/Marítima;Chile;8777
+1/12/2016;Fluvial/Marítima;Paraguay;14266
+1/12/2016;Fluvial/Marítima;Uruguay;58994
+1/12/2016;Fluvial/Marítima;EE.UU. y Canadá;560
+1/12/2016;Fluvial/Marítima;Resto de América;1251
+1/12/2016;Fluvial/Marítima;Europa;588
+1/12/2016;Fluvial/Marítima;Resto del mundo;45
+1/12/2016;Terrestre;Bolivia;38890
+1/12/2016;Terrestre;Brasil;70065
+1/12/2016;Terrestre;Chile;190928
+1/12/2016;Terrestre;Paraguay;86852
+1/12/2016;Terrestre;Uruguay;75267
+1/12/2016;Terrestre;EE.UU. y Canadá;234
+1/12/2016;Terrestre;Resto de América;3079
+1/12/2016;Terrestre;Europa;436
+1/12/2016;Terrestre;Resto del mundo;196
+1/1/2017;Aérea;Bolivia;5532
+1/1/2017;Aérea;Brasil;113833
+1/1/2017;Aérea;Chile;45105
+1/1/2017;Aérea;Paraguay;3256
+1/1/2017;Aérea;Uruguay;19540
+1/1/2017;Aérea;EE.UU. y Canadá;67899
+1/1/2017;Aérea;Resto de América;86052
+1/1/2017;Aérea;Europa;35113
+1/1/2017;Aérea;Resto del mundo;16233
+1/1/2017;Fluvial/Marítima;Bolivia;6877
+1/1/2017;Fluvial/Marítima;Brasil;27776
+1/1/2017;Fluvial/Marítima;Chile;11814
+1/1/2017;Fluvial/Marítima;Paraguay;19337
+1/1/2017;Fluvial/Marítima;Uruguay;123314
+1/1/2017;Fluvial/Marítima;EE.UU. y Canadá;757
+1/1/2017;Fluvial/Marítima;Resto de América;2166
+1/1/2017;Fluvial/Marítima;Europa;1070
+1/1/2017;Fluvial/Marítima;Resto del mundo;73
+1/1/2017;Terrestre;Bolivia;56721
+1/1/2017;Terrestre;Brasil;370276
+1/1/2017;Terrestre;Chile;489167
+1/1/2017;Terrestre;Paraguay;182468
+1/1/2017;Terrestre;Uruguay;214687
+1/1/2017;Terrestre;EE.UU. y Canadá;457
+1/1/2017;Terrestre;Resto de América;6012
+1/1/2017;Terrestre;Europa;853
+1/1/2017;Terrestre;Resto del mundo;383
+1/2/2017;Aérea;Bolivia;5221
+1/2/2017;Aérea;Brasil;120729
+1/2/2017;Aérea;Chile;47896
+1/2/2017;Aérea;Paraguay;4089
+1/2/2017;Aérea;Uruguay;14169
+1/2/2017;Aérea;EE.UU. y Canadá;69976
+1/2/2017;Aérea;Resto de América;99369
+1/2/2017;Aérea;Europa;45062
+1/2/2017;Aérea;Resto del mundo;17419
+1/2/2017;Fluvial/Marítima;Bolivia;5829
+1/2/2017;Fluvial/Marítima;Brasil;25824
+1/2/2017;Fluvial/Marítima;Chile;10869
+1/2/2017;Fluvial/Marítima;Paraguay;14312
+1/2/2017;Fluvial/Marítima;Uruguay;103567
+1/2/2017;Fluvial/Marítima;EE.UU. y Canadá;1432
+1/2/2017;Fluvial/Marítima;Resto de América;5646
+1/2/2017;Fluvial/Marítima;Europa;2017
+1/2/2017;Fluvial/Marítima;Resto del mundo;335
+1/2/2017;Terrestre;Bolivia;50162
+1/2/2017;Terrestre;Brasil;352366
+1/2/2017;Terrestre;Chile;377833
+1/2/2017;Terrestre;Paraguay;148219
+1/2/2017;Terrestre;Uruguay;211305
+1/2/2017;Terrestre;EE.UU. y Canadá;297
+1/2/2017;Terrestre;Resto de América;3904
+1/2/2017;Terrestre;Europa;553
+1/2/2017;Terrestre;Resto del mundo;249
+1/3/2017;Aérea;Bolivia;4791
+1/3/2017;Aérea;Brasil;112159
+1/3/2017;Aérea;Chile;44431
+1/3/2017;Aérea;Paraguay;3542
+1/3/2017;Aérea;Uruguay;7686
+1/3/2017;Aérea;EE.UU. y Canadá;78452
+1/3/2017;Aérea;Resto de América;91778
+1/3/2017;Aérea;Europa;44007
+1/3/2017;Aérea;Resto del mundo;23135
+1/3/2017;Fluvial/Marítima;Bolivia;8760
+1/3/2017;Fluvial/Marítima;Brasil;10849
+1/3/2017;Fluvial/Marítima;Chile;6140
+1/3/2017;Fluvial/Marítima;Paraguay;11325
+1/3/2017;Fluvial/Marítima;Uruguay;76573
+1/3/2017;Fluvial/Marítima;EE.UU. y Canadá;110
+1/3/2017;Fluvial/Marítima;Resto de América;425
+1/3/2017;Fluvial/Marítima;Europa;153
+1/3/2017;Fluvial/Marítima;Resto del mundo;28
+1/3/2017;Terrestre;Bolivia;47707
+1/3/2017;Terrestre;Brasil;149146
+1/3/2017;Terrestre;Chile;211199
+1/3/2017;Terrestre;Paraguay;91591
+1/3/2017;Terrestre;Uruguay;95773
+1/3/2017;Terrestre;EE.UU. y Canadá;259
+1/3/2017;Terrestre;Resto de América;3402
+1/3/2017;Terrestre;Europa;482
+1/3/2017;Terrestre;Resto del mundo;217
+1/4/2017;Aérea;Bolivia;3595
+1/4/2017;Aérea;Brasil;85921
+1/4/2017;Aérea;Chile;42173
+1/4/2017;Aérea;Paraguay;3473
+1/4/2017;Aérea;Uruguay;5590
+1/4/2017;Aérea;EE.UU. y Canadá;69077
+1/4/2017;Aérea;Resto de América;85361
+1/4/2017;Aérea;Europa;44120
+1/4/2017;Aérea;Resto del mundo;19840
+1/4/2017;Fluvial/Marítima;Bolivia;9077
+1/4/2017;Fluvial/Marítima;Brasil;4920
+1/4/2017;Fluvial/Marítima;Chile;217
+1/4/2017;Fluvial/Marítima;Paraguay;9655
+1/4/2017;Fluvial/Marítima;Uruguay;49729
+1/4/2017;Fluvial/Marítima;EE.UU. y Canadá;202
+1/4/2017;Fluvial/Marítima;Resto de América;751
+1/4/2017;Fluvial/Marítima;Europa;269
+1/4/2017;Fluvial/Marítima;Resto del mundo;50
+1/4/2017;Terrestre;Bolivia;29628
+1/4/2017;Terrestre;Brasil;81618
+1/4/2017;Terrestre;Chile;158011
+1/4/2017;Terrestre;Paraguay;114753
+1/4/2017;Terrestre;Uruguay;76038
+1/4/2017;Terrestre;EE.UU. y Canadá;150
+1/4/2017;Terrestre;Resto de América;1969
+1/4/2017;Terrestre;Europa;279
+1/4/2017;Terrestre;Resto del mundo;125
+1/5/2017;Aérea;Bolivia;3580
+1/5/2017;Aérea;Brasil;65108
+1/5/2017;Aérea;Chile;45213
+1/5/2017;Aérea;Paraguay;3658
+1/5/2017;Aérea;Uruguay;5200
+1/5/2017;Aérea;EE.UU. y Canadá;69503
+1/5/2017;Aérea;Resto de América;96071
+1/5/2017;Aérea;Europa;54370
+1/5/2017;Aérea;Resto del mundo;28114
+1/5/2017;Fluvial/Marítima;Bolivia;8695
+1/5/2017;Fluvial/Marítima;Brasil;3517
+1/5/2017;Fluvial/Marítima;Chile;31
+1/5/2017;Fluvial/Marítima;Paraguay;9960
+1/5/2017;Fluvial/Marítima;Uruguay;38585
+1/5/2017;Fluvial/Marítima;EE.UU. y Canadá;115
+1/5/2017;Fluvial/Marítima;Resto de América;418
+1/5/2017;Fluvial/Marítima;Europa;135
+1/5/2017;Fluvial/Marítima;Resto del mundo;27
+1/5/2017;Terrestre;Bolivia;27160
+1/5/2017;Terrestre;Brasil;47794
+1/5/2017;Terrestre;Chile;107287
+1/5/2017;Terrestre;Paraguay;97363
+1/5/2017;Terrestre;Uruguay;43956
+1/5/2017;Terrestre;EE.UU. y Canadá;18
+1/5/2017;Terrestre;Resto de América;241
+1/5/2017;Terrestre;Europa;34
+1/5/2017;Terrestre;Resto del mundo;15
+1/6/2017;Aérea;Bolivia;3089
+1/6/2017;Aérea;Brasil;48795
+1/6/2017;Aérea;Chile;36282
+1/6/2017;Aérea;Paraguay;3646
+1/6/2017;Aérea;Uruguay;4367
+1/6/2017;Aérea;EE.UU. y Canadá;71059
+1/6/2017;Aérea;Resto de América;78746
+1/6/2017;Aérea;Europa;81130
+1/6/2017;Aérea;Resto del mundo;17859
+1/6/2017;Fluvial/Marítima;Bolivia;6983
+1/6/2017;Fluvial/Marítima;Brasil;2318
+1/6/2017;Fluvial/Marítima;Chile;16
+1/6/2017;Fluvial/Marítima;Paraguay;12930
+1/6/2017;Fluvial/Marítima;Uruguay;24578
+1/6/2017;Fluvial/Marítima;EE.UU. y Canadá;251
+1/6/2017;Fluvial/Marítima;Resto de América;928
+1/6/2017;Fluvial/Marítima;Europa;247
+1/6/2017;Fluvial/Marítima;Resto del mundo;59
+1/6/2017;Terrestre;Bolivia;26478
+1/6/2017;Terrestre;Brasil;42462
+1/6/2017;Terrestre;Chile;59314
+1/6/2017;Terrestre;Paraguay;89691
+1/6/2017;Terrestre;Uruguay;29844
+1/6/2017;Terrestre;EE.UU. y Canadá;113
+1/6/2017;Terrestre;Resto de América;1488
+1/6/2017;Terrestre;Europa;211
+1/6/2017;Terrestre;Resto del mundo;95
+1/7/2017;Aérea;Bolivia;4618
+1/7/2017;Aérea;Brasil;65165
+1/7/2017;Aérea;Chile;57803
+1/7/2017;Aérea;Paraguay;5712
+1/7/2017;Aérea;Uruguay;3384
+1/7/2017;Aérea;EE.UU. y Canadá;77087
+1/7/2017;Aérea;Resto de América;82788
+1/7/2017;Aérea;Europa;85529
+1/7/2017;Aérea;Resto del mundo;13802
+1/7/2017;Fluvial/Marítima;Bolivia;13418
+1/7/2017;Fluvial/Marítima;Brasil;7340
+1/7/2017;Fluvial/Marítima;Chile;19
+1/7/2017;Fluvial/Marítima;Paraguay;20746
+1/7/2017;Fluvial/Marítima;Uruguay;45191
+1/7/2017;Fluvial/Marítima;EE.UU. y Canadá;556
+1/7/2017;Fluvial/Marítima;Resto de América;3113
+1/7/2017;Fluvial/Marítima;Europa;507
+1/7/2017;Fluvial/Marítima;Resto del mundo;151
+1/7/2017;Terrestre;Bolivia;47436
+1/7/2017;Terrestre;Brasil;114694
+1/7/2017;Terrestre;Chile;127413
+1/7/2017;Terrestre;Paraguay;159698
+1/7/2017;Terrestre;Uruguay;65742
+1/7/2017;Terrestre;EE.UU. y Canadá;362
+1/7/2017;Terrestre;Resto de América;1656
+1/7/2017;Terrestre;Europa;235
+1/7/2017;Terrestre;Resto del mundo;105
+1/8/2017;Aérea;Bolivia;4536
+1/8/2017;Aérea;Brasil;59874
+1/8/2017;Aérea;Chile;47365
+1/8/2017;Aérea;Paraguay;4744
+1/8/2017;Aérea;Uruguay;4149
+1/8/2017;Aérea;EE.UU. y Canadá;85578
+1/8/2017;Aérea;Resto de América;79271
+1/8/2017;Aérea;Europa;81872
+1/8/2017;Aérea;Resto del mundo;13101
+1/8/2017;Fluvial/Marítima;Bolivia;12140
+1/8/2017;Fluvial/Marítima;Brasil;4819
+1/8/2017;Fluvial/Marítima;Chile;20
+1/8/2017;Fluvial/Marítima;Paraguay;12350
+1/8/2017;Fluvial/Marítima;Uruguay;32026
+1/8/2017;Fluvial/Marítima;EE.UU. y Canadá;575
+1/8/2017;Fluvial/Marítima;Resto de América;2796
+1/8/2017;Fluvial/Marítima;Europa;626
+1/8/2017;Fluvial/Marítima;Resto del mundo;136
+1/8/2017;Terrestre;Bolivia;38283
+1/8/2017;Terrestre;Brasil;57672
+1/8/2017;Terrestre;Chile;97148
+1/8/2017;Terrestre;Paraguay;102300
+1/8/2017;Terrestre;Uruguay;44326
+1/8/2017;Terrestre;EE.UU. y Canadá;173
+1/8/2017;Terrestre;Resto de América;783
+1/8/2017;Terrestre;Europa;111
+1/8/2017;Terrestre;Resto del mundo;50
+1/9/2017;Aérea;Bolivia;4154
+1/9/2017;Aérea;Brasil;69093
+1/9/2017;Aérea;Chile;39301
+1/9/2017;Aérea;Paraguay;4271
+1/9/2017;Aérea;Uruguay;6170
+1/9/2017;Aérea;EE.UU. y Canadá;75165
+1/9/2017;Aérea;Resto de América;69092
+1/9/2017;Aérea;Europa;85883
+1/9/2017;Aérea;Resto del mundo;14991
+1/9/2017;Fluvial/Marítima;Bolivia;11836
+1/9/2017;Fluvial/Marítima;Brasil;3725
+1/9/2017;Fluvial/Marítima;Chile;6
+1/9/2017;Fluvial/Marítima;Paraguay;12161
+1/9/2017;Fluvial/Marítima;Uruguay;38011
+1/9/2017;Fluvial/Marítima;EE.UU. y Canadá;90
+1/9/2017;Fluvial/Marítima;Resto de América;533
+1/9/2017;Fluvial/Marítima;Europa;113
+1/9/2017;Fluvial/Marítima;Resto del mundo;25
+1/9/2017;Terrestre;Bolivia;36066
+1/9/2017;Terrestre;Brasil;61016
+1/9/2017;Terrestre;Chile;113792
+1/9/2017;Terrestre;Paraguay;86589
+1/9/2017;Terrestre;Uruguay;40543
+1/9/2017;Terrestre;EE.UU. y Canadá;318
+1/9/2017;Terrestre;Resto de América;2562
+1/9/2017;Terrestre;Europa;363
+1/9/2017;Terrestre;Resto del mundo;163
+1/10/2017;Aérea;Bolivia;3858
+1/10/2017;Aérea;Brasil;77556
+1/10/2017;Aérea;Chile;51290
+1/10/2017;Aérea;Paraguay;5579
+1/10/2017;Aérea;Uruguay;7198
+1/10/2017;Aérea;EE.UU. y Canadá;86115
+1/10/2017;Aérea;Resto de América;66790
+1/10/2017;Aérea;Europa;83527
+1/10/2017;Aérea;Resto del mundo;20116
+1/10/2017;Fluvial/Marítima;Bolivia;11192
+1/10/2017;Fluvial/Marítima;Brasil;4748
+1/10/2017;Fluvial/Marítima;Chile;42
+1/10/2017;Fluvial/Marítima;Paraguay;12820
+1/10/2017;Fluvial/Marítima;Uruguay;49164
+1/10/2017;Fluvial/Marítima;EE.UU. y Canadá;291
+1/10/2017;Fluvial/Marítima;Resto de América;1491
+1/10/2017;Fluvial/Marítima;Europa;311
+1/10/2017;Fluvial/Marítima;Resto del mundo;69
+1/10/2017;Terrestre;Bolivia;33312
+1/10/2017;Terrestre;Brasil;63472
+1/10/2017;Terrestre;Chile;145569
+1/10/2017;Terrestre;Paraguay;96631
+1/10/2017;Terrestre;Uruguay;52835
+1/10/2017;Terrestre;EE.UU. y Canadá;65
+1/10/2017;Terrestre;Resto de América;865
+1/10/2017;Terrestre;Europa;122
+1/10/2017;Terrestre;Resto del mundo;55
+1/11/2017;Aérea;Bolivia;3260
+1/11/2017;Aérea;Brasil;77079
+1/11/2017;Aérea;Chile;49449
+1/11/2017;Aérea;Paraguay;4714
+1/11/2017;Aérea;Uruguay;8808
+1/11/2017;Aérea;EE.UU. y Canadá;66301
+1/11/2017;Aérea;Resto de América;63537
+1/11/2017;Aérea;Europa;55360
+1/11/2017;Aérea;Resto del mundo;16393
+1/11/2017;Fluvial/Marítima;Bolivia;9922
+1/11/2017;Fluvial/Marítima;Brasil;5253
+1/11/2017;Fluvial/Marítima;Chile;842
+1/11/2017;Fluvial/Marítima;Paraguay;11974
+1/11/2017;Fluvial/Marítima;Uruguay;57249
+1/11/2017;Fluvial/Marítima;EE.UU. y Canadá;251
+1/11/2017;Fluvial/Marítima;Resto de América;1349
+1/11/2017;Fluvial/Marítima;Europa;359
+1/11/2017;Fluvial/Marítima;Resto del mundo;60
+1/11/2017;Terrestre;Bolivia;29333
+1/11/2017;Terrestre;Brasil;64813
+1/11/2017;Terrestre;Chile;136134
+1/11/2017;Terrestre;Paraguay;90872
+1/11/2017;Terrestre;Uruguay;58496
+1/11/2017;Terrestre;EE.UU. y Canadá;54
+1/11/2017;Terrestre;Resto de América;709
+1/11/2017;Terrestre;Europa;100
+1/11/2017;Terrestre;Resto del mundo;45
+1/12/2017;Aérea;Bolivia;2586
+1/12/2017;Aérea;Brasil;88676
+1/12/2017;Aérea;Chile;43514
+1/12/2017;Aérea;Paraguay;4279
+1/12/2017;Aérea;Uruguay;9910
+1/12/2017;Aérea;EE.UU. y Canadá;60746
+1/12/2017;Aérea;Resto de América;67727
+1/12/2017;Aérea;Europa;34239
+1/12/2017;Aérea;Resto del mundo;11496
+1/12/2017;Fluvial/Marítima;Bolivia;10776
+1/12/2017;Fluvial/Marítima;Brasil;17780
+1/12/2017;Fluvial/Marítima;Chile;12309
+1/12/2017;Fluvial/Marítima;Paraguay;15146
+1/12/2017;Fluvial/Marítima;Uruguay;62461
+1/12/2017;Fluvial/Marítima;EE.UU. y Canadá;210
+1/12/2017;Fluvial/Marítima;Resto de América;935
+1/12/2017;Fluvial/Marítima;Europa;308
+1/12/2017;Fluvial/Marítima;Resto del mundo;66
+1/12/2017;Terrestre;Bolivia;38364
+1/12/2017;Terrestre;Brasil;68738
+1/12/2017;Terrestre;Chile;167276
+1/12/2017;Terrestre;Paraguay;99638
+1/12/2017;Terrestre;Uruguay;72310
+1/12/2017;Terrestre;EE.UU. y Canadá;188
+1/12/2017;Terrestre;Resto de América;2479
+1/12/2017;Terrestre;Europa;351
+1/12/2017;Terrestre;Resto del mundo;158
+1/1/2018;Aérea;Bolivia;5311
+1/1/2018;Aérea;Brasil;147948
+1/1/2018;Aérea;Chile;56013
+1/1/2018;Aérea;Paraguay;5346
+1/1/2018;Aérea;Uruguay;26717
+1/1/2018;Aérea;EE.UU. y Canadá;71405
+1/1/2018;Aérea;Resto de América;98876
+1/1/2018;Aérea;Europa;44982
+1/1/2018;Aérea;Resto del mundo;16384
+1/1/2018;Fluvial/Marítima;Bolivia;9478
+1/1/2018;Fluvial/Marítima;Brasil;28861
+1/1/2018;Fluvial/Marítima;Chile;12468
+1/1/2018;Fluvial/Marítima;Paraguay;23837
+1/1/2018;Fluvial/Marítima;Uruguay;133731
+1/1/2018;Fluvial/Marítima;EE.UU. y Canadá;1028
+1/1/2018;Fluvial/Marítima;Resto de América;6119
+1/1/2018;Fluvial/Marítima;Europa;1251
+1/1/2018;Fluvial/Marítima;Resto del mundo;318
+1/1/2018;Terrestre;Bolivia;58204
+1/1/2018;Terrestre;Brasil;382078
+1/1/2018;Terrestre;Chile;390747
+1/1/2018;Terrestre;Paraguay;209078
+1/1/2018;Terrestre;Uruguay;246634
+1/1/2018;Terrestre;EE.UU. y Canadá;352
+1/1/2018;Terrestre;Resto de América;4631
+1/1/2018;Terrestre;Europa;657
+1/1/2018;Terrestre;Resto del mundo;295
+1/2/2018;Aérea;Bolivia;5933
+1/2/2018;Aérea;Brasil;144728
+1/2/2018;Aérea;Chile;56692
+1/2/2018;Aérea;Paraguay;4847
+1/2/2018;Aérea;Uruguay;15443
+1/2/2018;Aérea;EE.UU. y Canadá;83201
+1/2/2018;Aérea;Resto de América;101748
+1/2/2018;Aérea;Europa;50740
+1/2/2018;Aérea;Resto del mundo;21079
+1/2/2018;Fluvial/Marítima;Bolivia;7360
+1/2/2018;Fluvial/Marítima;Brasil;29184
+1/2/2018;Fluvial/Marítima;Chile;13313
+1/2/2018;Fluvial/Marítima;Paraguay;14516
+1/2/2018;Fluvial/Marítima;Uruguay;121726
+1/2/2018;Fluvial/Marítima;EE.UU. y Canadá;1767
+1/2/2018;Fluvial/Marítima;Resto de América;10728
+1/2/2018;Fluvial/Marítima;Europa;1988
+1/2/2018;Fluvial/Marítima;Resto del mundo;276
+1/2/2018;Terrestre;Bolivia;61444
+1/2/2018;Terrestre;Brasil;343760
+1/2/2018;Terrestre;Chile;325505
+1/2/2018;Terrestre;Paraguay;169618
+1/2/2018;Terrestre;Uruguay;230669
+1/2/2018;Terrestre;EE.UU. y Canadá;266
+1/2/2018;Terrestre;Resto de América;3493
+1/2/2018;Terrestre;Europa;495
+1/2/2018;Terrestre;Resto del mundo;223
+1/3/2018;Aérea;Bolivia;4098
+1/3/2018;Aérea;Brasil;139248
+1/3/2018;Aérea;Chile;39955
+1/3/2018;Aérea;Paraguay;3001
+1/3/2018;Aérea;Uruguay;7902
+1/3/2018;Aérea;EE.UU. y Canadá;80048
+1/3/2018;Aérea;Resto de América;104301
+1/3/2018;Aérea;Europa;54409
+1/3/2018;Aérea;Resto del mundo;23030
+1/3/2018;Fluvial/Marítima;Bolivia;5143
+1/3/2018;Fluvial/Marítima;Brasil;11505
+1/3/2018;Fluvial/Marítima;Chile;5344
+1/3/2018;Fluvial/Marítima;Paraguay;12925
+1/3/2018;Fluvial/Marítima;Uruguay;57736
+1/3/2018;Fluvial/Marítima;EE.UU. y Canadá;804
+1/3/2018;Fluvial/Marítima;Resto de América;4185
+1/3/2018;Fluvial/Marítima;Europa;731
+1/3/2018;Fluvial/Marítima;Resto del mundo;81
+1/3/2018;Terrestre;Bolivia;33769
+1/3/2018;Terrestre;Brasil;170752
+1/3/2018;Terrestre;Chile;143028
+1/3/2018;Terrestre;Paraguay;97104
+1/3/2018;Terrestre;Uruguay;80027
+1/3/2018;Terrestre;EE.UU. y Canadá;162
+1/3/2018;Terrestre;Resto de América;2138
+1/3/2018;Terrestre;Europa;303
+1/3/2018;Terrestre;Resto del mundo;136
+1/4/2018;Aérea;Bolivia;2756
+1/4/2018;Aérea;Brasil;108503
+1/4/2018;Aérea;Chile;41256
+1/4/2018;Aérea;Paraguay;4947
+1/4/2018;Aérea;Uruguay;7434
+1/4/2018;Aérea;EE.UU. y Canadá;71999
+1/4/2018;Aérea;Resto de América;97677
+1/4/2018;Aérea;Europa;50382
+1/4/2018;Aérea;Resto del mundo;29964
+1/4/2018;Fluvial/Marítima;Bolivia;5300
+1/4/2018;Fluvial/Marítima;Brasil;8350
+1/4/2018;Fluvial/Marítima;Chile;1308
+1/4/2018;Fluvial/Marítima;Paraguay;12180
+1/4/2018;Fluvial/Marítima;Uruguay;60036
+1/4/2018;Fluvial/Marítima;EE.UU. y Canadá;493
+1/4/2018;Fluvial/Marítima;Resto de América;2732
+1/4/2018;Fluvial/Marítima;Europa;480
+1/4/2018;Fluvial/Marítima;Resto del mundo;51
+1/4/2018;Terrestre;Bolivia;26602
+1/4/2018;Terrestre;Brasil;100203
+1/4/2018;Terrestre;Chile;153810
+1/4/2018;Terrestre;Paraguay;136403
+1/4/2018;Terrestre;Uruguay;103675
+1/4/2018;Terrestre;EE.UU. y Canadá;147
+1/4/2018;Terrestre;Resto de América;1942
+1/4/2018;Terrestre;Europa;275
+1/4/2018;Terrestre;Resto del mundo;124
+1/5/2018;Aérea;Bolivia;2879
+1/5/2018;Aérea;Brasil;63543
+1/5/2018;Aérea;Chile;34067
+1/5/2018;Aérea;Paraguay;5211
+1/5/2018;Aérea;Uruguay;6816
+1/5/2018;Aérea;EE.UU. y Canadá;85831
+1/5/2018;Aérea;Resto de América;93140
+1/5/2018;Aérea;Europa;80770
+1/5/2018;Aérea;Resto del mundo;18970
+1/5/2018;Fluvial/Marítima;Bolivia;4753
+1/5/2018;Fluvial/Marítima;Brasil;6115
+1/5/2018;Fluvial/Marítima;Chile;70
+1/5/2018;Fluvial/Marítima;Paraguay;10430
+1/5/2018;Fluvial/Marítima;Uruguay;35483
+1/5/2018;Fluvial/Marítima;EE.UU. y Canadá;564
+1/5/2018;Fluvial/Marítima;Resto de América;2713
+1/5/2018;Fluvial/Marítima;Europa;578
+1/5/2018;Fluvial/Marítima;Resto del mundo;49
+1/5/2018;Terrestre;Bolivia;22332
+1/5/2018;Terrestre;Brasil;49759
+1/5/2018;Terrestre;Chile;90027
+1/5/2018;Terrestre;Paraguay;104361
+1/5/2018;Terrestre;Uruguay;47630
+1/5/2018;Terrestre;EE.UU. y Canadá;17
+1/5/2018;Terrestre;Resto de América;227
+1/5/2018;Terrestre;Europa;32
+1/5/2018;Terrestre;Resto del mundo;14
+1/6/2018;Aérea;Bolivia;3087
+1/6/2018;Aérea;Brasil;34633
+1/6/2018;Aérea;Chile;22068
+1/6/2018;Aérea;Paraguay;3881
+1/6/2018;Aérea;Uruguay;3647
+1/6/2018;Aérea;EE.UU. y Canadá;80705
+1/6/2018;Aérea;Resto de América;78286
+1/6/2018;Aérea;Europa;92980
+1/6/2018;Aérea;Resto del mundo;16577
+1/6/2018;Fluvial/Marítima;Bolivia;4990
+1/6/2018;Fluvial/Marítima;Brasil;2721
+1/6/2018;Fluvial/Marítima;Chile;19
+1/6/2018;Fluvial/Marítima;Paraguay;8681
+1/6/2018;Fluvial/Marítima;Uruguay;21233
+1/6/2018;Fluvial/Marítima;EE.UU. y Canadá;180
+1/6/2018;Fluvial/Marítima;Resto de América;879
+1/6/2018;Fluvial/Marítima;Europa;187
+1/6/2018;Fluvial/Marítima;Resto del mundo;15
+1/6/2018;Terrestre;Bolivia;18457
+1/6/2018;Terrestre;Brasil;41213
+1/6/2018;Terrestre;Chile;32729
+1/6/2018;Terrestre;Paraguay;75928
+1/6/2018;Terrestre;Uruguay;24012
+1/6/2018;Terrestre;EE.UU. y Canadá;61
+1/6/2018;Terrestre;Resto de América;801
+1/6/2018;Terrestre;Europa;113
+1/6/2018;Terrestre;Resto del mundo;51
+1/7/2018;Aérea;Bolivia;3790
+1/7/2018;Aérea;Brasil;60363
+1/7/2018;Aérea;Chile;34638
+1/7/2018;Aérea;Paraguay;4887
+1/7/2018;Aérea;Uruguay;5341
+1/7/2018;Aérea;EE.UU. y Canadá;75543
+1/7/2018;Aérea;Resto de América;80958
+1/7/2018;Aérea;Europa;98722
+1/7/2018;Aérea;Resto del mundo;13445
+1/7/2018;Fluvial/Marítima;Bolivia;6381
+1/7/2018;Fluvial/Marítima;Brasil;6174
+1/7/2018;Fluvial/Marítima;Chile;89
+1/7/2018;Fluvial/Marítima;Paraguay;14961
+1/7/2018;Fluvial/Marítima;Uruguay;34211
+1/7/2018;Fluvial/Marítima;EE.UU. y Canadá;873
+1/7/2018;Fluvial/Marítima;Resto de América;4485
+1/7/2018;Fluvial/Marítima;Europa;1043
+1/7/2018;Fluvial/Marítima;Resto del mundo;143
+1/7/2018;Terrestre;Bolivia;35035
+1/7/2018;Terrestre;Brasil;111839
+1/7/2018;Terrestre;Chile;55022
+1/7/2018;Terrestre;Paraguay;122327
+1/7/2018;Terrestre;Uruguay;49081
+1/7/2018;Terrestre;EE.UU. y Canadá;279
+1/7/2018;Terrestre;Resto de América;656
+1/7/2018;Terrestre;Europa;93
+1/7/2018;Terrestre;Resto del mundo;41
+1/8/2018;Aérea;Bolivia;3738
+1/8/2018;Aérea;Brasil;58870
+1/8/2018;Aérea;Chile;25930
+1/8/2018;Aérea;Paraguay;4670
+1/8/2018;Aérea;Uruguay;4709
+1/8/2018;Aérea;EE.UU. y Canadá;70461
+1/8/2018;Aérea;Resto de América;66521
+1/8/2018;Aérea;Europa;86557
+1/8/2018;Aérea;Resto del mundo;13880
+1/8/2018;Fluvial/Marítima;Bolivia;6550
+1/8/2018;Fluvial/Marítima;Brasil;3671
+1/8/2018;Fluvial/Marítima;Chile;62
+1/8/2018;Fluvial/Marítima;Paraguay;10050
+1/8/2018;Fluvial/Marítima;Uruguay;27740
+1/8/2018;Fluvial/Marítima;EE.UU. y Canadá;409
+1/8/2018;Fluvial/Marítima;Resto de América;1798
+1/8/2018;Fluvial/Marítima;Europa;307
+1/8/2018;Fluvial/Marítima;Resto del mundo;58
+1/8/2018;Terrestre;Bolivia;29827
+1/8/2018;Terrestre;Brasil;59307
+1/8/2018;Terrestre;Chile;48006
+1/8/2018;Terrestre;Paraguay;75895
+1/8/2018;Terrestre;Uruguay;31850
+1/8/2018;Terrestre;EE.UU. y Canadá;142
+1/8/2018;Terrestre;Resto de América;336
+1/8/2018;Terrestre;Europa;47
+1/8/2018;Terrestre;Resto del mundo;21
+1/9/2018;Aérea;Bolivia;3050
+1/9/2018;Aérea;Brasil;68153
+1/9/2018;Aérea;Chile;21199
+1/9/2018;Aérea;Paraguay;4586
+1/9/2018;Aérea;Uruguay;4781
+1/9/2018;Aérea;EE.UU. y Canadá;67076
+1/9/2018;Aérea;Resto de América;62952
+1/9/2018;Aérea;Europa;82376
+1/9/2018;Aérea;Resto del mundo;14239
+1/9/2018;Fluvial/Marítima;Bolivia;4875
+1/9/2018;Fluvial/Marítima;Brasil;3323
+1/9/2018;Fluvial/Marítima;Chile;9
+1/9/2018;Fluvial/Marítima;Paraguay;8313
+1/9/2018;Fluvial/Marítima;Uruguay;27979
+1/9/2018;Fluvial/Marítima;EE.UU. y Canadá;93
+1/9/2018;Fluvial/Marítima;Resto de América;417
+1/9/2018;Fluvial/Marítima;Europa;72
+1/9/2018;Fluvial/Marítima;Resto del mundo;13
+1/9/2018;Terrestre;Bolivia;23143
+1/9/2018;Terrestre;Brasil;57143
+1/9/2018;Terrestre;Chile;42184
+1/9/2018;Terrestre;Paraguay;59812
+1/9/2018;Terrestre;Uruguay;27920
+1/9/2018;Terrestre;EE.UU. y Canadá;177
+1/9/2018;Terrestre;Resto de América;838
+1/9/2018;Terrestre;Europa;118
+1/9/2018;Terrestre;Resto del mundo;53
+1/10/2018;Aérea;Bolivia;2648
+1/10/2018;Aérea;Brasil;71260
+1/10/2018;Aérea;Chile;25106
+1/10/2018;Aérea;Paraguay;4045
+1/10/2018;Aérea;Uruguay;5861
+1/10/2018;Aérea;EE.UU. y Canadá;64907
+1/10/2018;Aérea;Resto de América;58798
+1/10/2018;Aérea;Europa;84788
+1/10/2018;Aérea;Resto del mundo;15038
+1/10/2018;Fluvial/Marítima;Bolivia;3951
+1/10/2018;Fluvial/Marítima;Brasil;3326
+1/10/2018;Fluvial/Marítima;Chile;30
+1/10/2018;Fluvial/Marítima;Paraguay;8894
+1/10/2018;Fluvial/Marítima;Uruguay;34712
+1/10/2018;Fluvial/Marítima;EE.UU. y Canadá;70
+1/10/2018;Fluvial/Marítima;Resto de América;338
+1/10/2018;Fluvial/Marítima;Europa;59
+1/10/2018;Fluvial/Marítima;Resto del mundo;14
+1/10/2018;Terrestre;Bolivia;19513
+1/10/2018;Terrestre;Brasil;60915
+1/10/2018;Terrestre;Chile;54947
+1/10/2018;Terrestre;Paraguay;60666
+1/10/2018;Terrestre;Uruguay;37279
+1/10/2018;Terrestre;EE.UU. y Canadá;24
+1/10/2018;Terrestre;Resto de América;325
+1/10/2018;Terrestre;Europa;46
+1/10/2018;Terrestre;Resto del mundo;20
+1/11/2018;Aérea;Bolivia;2332
+1/11/2018;Aérea;Brasil;63740
+1/11/2018;Aérea;Chile;19280
+1/11/2018;Aérea;Paraguay;4178
+1/11/2018;Aérea;Uruguay;5806
+1/11/2018;Aérea;EE.UU. y Canadá;53014
+1/11/2018;Aérea;Resto de América;63133
+1/11/2018;Aérea;Europa;47341
+1/11/2018;Aérea;Resto del mundo;17770
+1/11/2018;Fluvial/Marítima;Bolivia;4555
+1/11/2018;Fluvial/Marítima;Brasil;4707
+1/11/2018;Fluvial/Marítima;Chile;82
+1/11/2018;Fluvial/Marítima;Paraguay;7961
+1/11/2018;Fluvial/Marítima;Uruguay;36458
+1/11/2018;Fluvial/Marítima;EE.UU. y Canadá;71
+1/11/2018;Fluvial/Marítima;Resto de América;335
+1/11/2018;Fluvial/Marítima;Europa;52
+1/11/2018;Fluvial/Marítima;Resto del mundo;14
+1/11/2018;Terrestre;Bolivia;21346
+1/11/2018;Terrestre;Brasil;50816
+1/11/2018;Terrestre;Chile;59732
+1/11/2018;Terrestre;Paraguay;62954
+1/11/2018;Terrestre;Uruguay;39861
+1/11/2018;Terrestre;EE.UU. y Canadá;22
+1/11/2018;Terrestre;Resto de América;292
+1/11/2018;Terrestre;Europa;41
+1/11/2018;Terrestre;Resto del mundo;18
+1/12/2018;Aérea;Bolivia;2528
+1/12/2018;Aérea;Brasil;70413
+1/12/2018;Aérea;Chile;21414
+1/12/2018;Aérea;Paraguay;4468
+1/12/2018;Aérea;Uruguay;7307
+1/12/2018;Aérea;EE.UU. y Canadá;52934
+1/12/2018;Aérea;Resto de América;63777
+1/12/2018;Aérea;Europa;43092
+1/12/2018;Aérea;Resto del mundo;13433
+1/12/2018;Fluvial/Marítima;Bolivia;5258
+1/12/2018;Fluvial/Marítima;Brasil;10295
+1/12/2018;Fluvial/Marítima;Chile;588
+1/12/2018;Fluvial/Marítima;Paraguay;10839
+1/12/2018;Fluvial/Marítima;Uruguay;57329
+1/12/2018;Fluvial/Marítima;EE.UU. y Canadá;115
+1/12/2018;Fluvial/Marítima;Resto de América;540
+1/12/2018;Fluvial/Marítima;Europa;69
+1/12/2018;Fluvial/Marítima;Resto del mundo;22
+1/12/2018;Terrestre;Bolivia;30377
+1/12/2018;Terrestre;Brasil;60866
+1/12/2018;Terrestre;Chile;76908
+1/12/2018;Terrestre;Paraguay;76378
+1/12/2018;Terrestre;Uruguay;50564
+1/12/2018;Terrestre;EE.UU. y Canadá;83
+1/12/2018;Terrestre;Resto de América;1097
+1/12/2018;Terrestre;Europa;155
+1/12/2018;Terrestre;Resto del mundo;70
+1/1/2019;Aérea;Bolivia;3415
+1/1/2019;Aérea;Brasil;125021
+1/1/2019;Aérea;Chile;32657
+1/1/2019;Aérea;Paraguay;4268
+1/1/2019;Aérea;Uruguay;22411
+1/1/2019;Aérea;EE.UU. y Canadá;57973
+1/1/2019;Aérea;Resto de América;72040
+1/1/2019;Aérea;Europa;39511
+1/1/2019;Aérea;Resto del mundo;19456
+1/1/2019;Fluvial/Marítima;Bolivia;5805
+1/1/2019;Fluvial/Marítima;Brasil;15112
+1/1/2019;Fluvial/Marítima;Chile;2071
+1/1/2019;Fluvial/Marítima;Paraguay;17619
+1/1/2019;Fluvial/Marítima;Uruguay;100947
+1/1/2019;Fluvial/Marítima;EE.UU. y Canadá;659
+1/1/2019;Fluvial/Marítima;Resto de América;2764
+1/1/2019;Fluvial/Marítima;Europa;457
+1/1/2019;Fluvial/Marítima;Resto del mundo;109
+1/1/2019;Terrestre;Bolivia;45070
+1/1/2019;Terrestre;Brasil;212229
+1/1/2019;Terrestre;Chile;219155
+1/1/2019;Terrestre;Paraguay;151997
+1/1/2019;Terrestre;Uruguay;158669
+1/1/2019;Terrestre;EE.UU. y Canadá;130
+1/1/2019;Terrestre;Resto de América;1311
+1/1/2019;Terrestre;Europa;170
+1/1/2019;Terrestre;Resto del mundo;109
+1/2/2019;Aérea;Bolivia;3314
+1/2/2019;Aérea;Brasil;142605
+1/2/2019;Aérea;Chile;26693
+1/2/2019;Aérea;Paraguay;4354
+1/2/2019;Aérea;Uruguay;16408
+1/2/2019;Aérea;EE.UU. y Canadá;63143
+1/2/2019;Aérea;Resto de América;86775
+1/2/2019;Aérea;Europa;46891
+1/2/2019;Aérea;Resto del mundo;18114
+1/2/2019;Fluvial/Marítima;Bolivia;4607
+1/2/2019;Fluvial/Marítima;Brasil;15468
+1/2/2019;Fluvial/Marítima;Chile;1055
+1/2/2019;Fluvial/Marítima;Paraguay;12143
+1/2/2019;Fluvial/Marítima;Uruguay;80205
+1/2/2019;Fluvial/Marítima;EE.UU. y Canadá;480
+1/2/2019;Fluvial/Marítima;Resto de América;1519
+1/2/2019;Fluvial/Marítima;Europa;377
+1/2/2019;Fluvial/Marítima;Resto del mundo;70
+1/2/2019;Terrestre;Bolivia;38136
+1/2/2019;Terrestre;Brasil;234834
+1/2/2019;Terrestre;Chile;147643
+1/2/2019;Terrestre;Paraguay;112307
+1/2/2019;Terrestre;Uruguay;134481
+1/2/2019;Terrestre;EE.UU. y Canadá;358
+1/2/2019;Terrestre;Resto de América;2238
+1/2/2019;Terrestre;Europa;355
+1/2/2019;Terrestre;Resto del mundo;284
+1/3/2019;Aérea;Bolivia;3573
+1/3/2019;Aérea;Brasil;114641
+1/3/2019;Aérea;Chile;26559
+1/3/2019;Aérea;Paraguay;5021
+1/3/2019;Aérea;Uruguay;8278
+1/3/2019;Aérea;EE.UU. y Canadá;68406
+1/3/2019;Aérea;Resto de América;94620
+1/3/2019;Aérea;Europa;46687
+1/3/2019;Aérea;Resto del mundo;19576
+1/3/2019;Fluvial/Marítima;Bolivia;6223
+1/3/2019;Fluvial/Marítima;Brasil;9771
+1/3/2019;Fluvial/Marítima;Chile;342
+1/3/2019;Fluvial/Marítima;Paraguay;9395
+1/3/2019;Fluvial/Marítima;Uruguay;63926
+1/3/2019;Fluvial/Marítima;EE.UU. y Canadá;102
+1/3/2019;Fluvial/Marítima;Resto de América;366
+1/3/2019;Fluvial/Marítima;Europa;101
+1/3/2019;Fluvial/Marítima;Resto del mundo;19
+1/3/2019;Terrestre;Bolivia;37669
+1/3/2019;Terrestre;Brasil;130219
+1/3/2019;Terrestre;Chile;114348
+1/3/2019;Terrestre;Paraguay;80415
+1/3/2019;Terrestre;Uruguay;88918
+1/3/2019;Terrestre;EE.UU. y Canadá;62
+1/3/2019;Terrestre;Resto de América;262
+1/3/2019;Terrestre;Europa;40
+1/3/2019;Terrestre;Resto del mundo;42
+1/4/2019;Aérea;Bolivia;2259
+1/4/2019;Aérea;Brasil;83215
+1/4/2019;Aérea;Chile;25117
+1/4/2019;Aérea;Paraguay;4250
+1/4/2019;Aérea;Uruguay;4334
+1/4/2019;Aérea;EE.UU. y Canadá;62497
+1/4/2019;Aérea;Resto de América;72306
+1/4/2019;Aérea;Europa;47291
+1/4/2019;Aérea;Resto del mundo;15606
+1/4/2019;Fluvial/Marítima;Bolivia;4941
+1/4/2019;Fluvial/Marítima;Brasil;6326
+1/4/2019;Fluvial/Marítima;Chile;50
+1/4/2019;Fluvial/Marítima;Paraguay;8010
+1/4/2019;Fluvial/Marítima;Uruguay;40080
+1/4/2019;Fluvial/Marítima;EE.UU. y Canadá;72
+1/4/2019;Fluvial/Marítima;Resto de América;211
+1/4/2019;Fluvial/Marítima;Europa;64
+1/4/2019;Fluvial/Marítima;Resto del mundo;13
+1/4/2019;Terrestre;Bolivia;21797
+1/4/2019;Terrestre;Brasil;73700
+1/4/2019;Terrestre;Chile;83105
+1/4/2019;Terrestre;Paraguay;92068
+1/4/2019;Terrestre;Uruguay;59153
+1/4/2019;Terrestre;EE.UU. y Canadá;82
+1/4/2019;Terrestre;Resto de América;423
+1/4/2019;Terrestre;Europa;77
+1/4/2019;Terrestre;Resto del mundo;83
+1/5/2019;Aérea;Bolivia;2482
+1/5/2019;Aérea;Brasil;62219
+1/5/2019;Aérea;Chile;19294
+1/5/2019;Aérea;Paraguay;4890
+1/5/2019;Aérea;Uruguay;4319
+1/5/2019;Aérea;EE.UU. y Canadá;74909
+1/5/2019;Aérea;Resto de América;79812
+1/5/2019;Aérea;Europa;64342
+1/5/2019;Aérea;Resto del mundo;15155
+1/5/2019;Fluvial/Marítima;Bolivia;6065
+1/5/2019;Fluvial/Marítima;Brasil;3067
+1/5/2019;Fluvial/Marítima;Chile;49
+1/5/2019;Fluvial/Marítima;Paraguay;5859
+1/5/2019;Fluvial/Marítima;Uruguay;21511
+1/5/2019;Fluvial/Marítima;EE.UU. y Canadá;121
+1/5/2019;Fluvial/Marítima;Resto de América;450
+1/5/2019;Fluvial/Marítima;Europa;98
+1/5/2019;Fluvial/Marítima;Resto del mundo;30
+1/5/2019;Terrestre;Bolivia;24099
+1/5/2019;Terrestre;Brasil;47892
+1/5/2019;Terrestre;Chile;48429
+1/5/2019;Terrestre;Paraguay;73619
+1/5/2019;Terrestre;Uruguay;30697
+1/5/2019;Terrestre;EE.UU. y Canadá;61
+1/5/2019;Terrestre;Resto de América;334
+1/5/2019;Terrestre;Europa;52
+1/5/2019;Terrestre;Resto del mundo;62
+1/6/2019;Aérea;Bolivia;2271
+1/6/2019;Aérea;Brasil;48150
+1/6/2019;Aérea;Chile;19967
+1/6/2019;Aérea;Paraguay;5069
+1/6/2019;Aérea;Uruguay;3944
+1/6/2019;Aérea;EE.UU. y Canadá;76487
+1/6/2019;Aérea;Resto de América;72596
+1/6/2019;Aérea;Europa;80229
+1/6/2019;Aérea;Resto del mundo;15895
+1/6/2019;Fluvial/Marítima;Bolivia;6261
+1/6/2019;Fluvial/Marítima;Brasil;3775
+1/6/2019;Fluvial/Marítima;Chile;15
+1/6/2019;Fluvial/Marítima;Paraguay;5912
+1/6/2019;Fluvial/Marítima;Uruguay;24611
+1/6/2019;Fluvial/Marítima;EE.UU. y Canadá;50
+1/6/2019;Fluvial/Marítima;Resto de América;172
+1/6/2019;Fluvial/Marítima;Europa;35
+1/6/2019;Fluvial/Marítima;Resto del mundo;12
+1/6/2019;Terrestre;Bolivia;31671
+1/6/2019;Terrestre;Brasil;56040
+1/6/2019;Terrestre;Chile;33762
+1/6/2019;Terrestre;Paraguay;80340
+1/6/2019;Terrestre;Uruguay;28275
+1/6/2019;Terrestre;EE.UU. y Canadá;93
+1/6/2019;Terrestre;Resto de América;528
+1/6/2019;Terrestre;Europa;78
+1/6/2019;Terrestre;Resto del mundo;63
+1/7/2019;Aérea;Bolivia;2518
+1/7/2019;Aérea;Brasil;51844
+1/7/2019;Aérea;Chile;21698
+1/7/2019;Aérea;Paraguay;6103
+1/7/2019;Aérea;Uruguay;3756
+1/7/2019;Aérea;EE.UU. y Canadá;59360
+1/7/2019;Aérea;Resto de América;71553
+1/7/2019;Aérea;Europa;81803
+1/7/2019;Aérea;Resto del mundo;13211
+1/7/2019;Fluvial/Marítima;Bolivia;8983
+1/7/2019;Fluvial/Marítima;Brasil;5137
+1/7/2019;Fluvial/Marítima;Chile;34
+1/7/2019;Fluvial/Marítima;Paraguay;9347
+1/7/2019;Fluvial/Marítima;Uruguay;33342
+1/7/2019;Fluvial/Marítima;EE.UU. y Canadá;146
+1/7/2019;Fluvial/Marítima;Resto de América;468
+1/7/2019;Fluvial/Marítima;Europa;121
+1/7/2019;Fluvial/Marítima;Resto del mundo;19
+1/7/2019;Terrestre;Bolivia;41981
+1/7/2019;Terrestre;Brasil;108903
+1/7/2019;Terrestre;Chile;64531
+1/7/2019;Terrestre;Paraguay;110852
+1/7/2019;Terrestre;Uruguay;43070
+1/7/2019;Terrestre;EE.UU. y Canadá;357
+1/7/2019;Terrestre;Resto de América;934
+1/7/2019;Terrestre;Europa;90
+1/7/2019;Terrestre;Resto del mundo;100
+1/8/2019;Aérea;Bolivia;4015
+1/8/2019;Aérea;Brasil;61937
+1/8/2019;Aérea;Chile;21573
+1/8/2019;Aérea;Paraguay;6402
+1/8/2019;Aérea;Uruguay;4433
+1/8/2019;Aérea;EE.UU. y Canadá;78376
+1/8/2019;Aérea;Resto de América;73009
+1/8/2019;Aérea;Europa;85517
+1/8/2019;Aérea;Resto del mundo;12436
+1/8/2019;Fluvial/Marítima;Bolivia;8128
+1/8/2019;Fluvial/Marítima;Brasil;2946
+1/8/2019;Fluvial/Marítima;Chile;30
+1/8/2019;Fluvial/Marítima;Paraguay;8618
+1/8/2019;Fluvial/Marítima;Uruguay;28809
+1/8/2019;Fluvial/Marítima;EE.UU. y Canadá;193
+1/8/2019;Fluvial/Marítima;Resto de América;1149
+1/8/2019;Fluvial/Marítima;Europa;321
+1/8/2019;Fluvial/Marítima;Resto del mundo;49
+1/8/2019;Terrestre;Bolivia;35969
+1/8/2019;Terrestre;Brasil;62490
+1/8/2019;Terrestre;Chile;44088
+1/8/2019;Terrestre;Paraguay;80989
+1/8/2019;Terrestre;Uruguay;31261
+1/8/2019;Terrestre;EE.UU. y Canadá;172
+1/8/2019;Terrestre;Resto de América;289
+1/8/2019;Terrestre;Europa;31
+1/8/2019;Terrestre;Resto del mundo;32
+1/9/2019;Aérea;Bolivia;2770
+1/9/2019;Aérea;Brasil;56095
+1/9/2019;Aérea;Chile;19269
+1/9/2019;Aérea;Paraguay;4873
+1/9/2019;Aérea;Uruguay;4106
+1/9/2019;Aérea;EE.UU. y Canadá;69588
+1/9/2019;Aérea;Resto de América;61185
+1/9/2019;Aérea;Europa;87375
+1/9/2019;Aérea;Resto del mundo;14516
+1/9/2019;Fluvial/Marítima;Bolivia;6077
+1/9/2019;Fluvial/Marítima;Brasil;3281
+1/9/2019;Fluvial/Marítima;Chile;16
+1/9/2019;Fluvial/Marítima;Paraguay;8209
+1/9/2019;Fluvial/Marítima;Uruguay;29433
+1/9/2019;Fluvial/Marítima;EE.UU. y Canadá;25
+1/9/2019;Fluvial/Marítima;Resto de América;154
+1/9/2019;Fluvial/Marítima;Europa;38
+1/9/2019;Fluvial/Marítima;Resto del mundo;6
+1/9/2019;Terrestre;Bolivia;28480
+1/9/2019;Terrestre;Brasil;57874
+1/9/2019;Terrestre;Chile;54339
+1/9/2019;Terrestre;Paraguay;62013
+1/9/2019;Terrestre;Uruguay;26770
+1/9/2019;Terrestre;EE.UU. y Canadá;205
+1/9/2019;Terrestre;Resto de América;646
+1/9/2019;Terrestre;Europa;106
+1/9/2019;Terrestre;Resto del mundo;59
+1/10/2019;Aérea;Bolivia;1846
+1/10/2019;Aérea;Brasil;56587
+1/10/2019;Aérea;Chile;17055
+1/10/2019;Aérea;Paraguay;4952
+1/10/2019;Aérea;Uruguay;5152
+1/10/2019;Aérea;EE.UU. y Canadá;69688
+1/10/2019;Aérea;Resto de América;60558
+1/10/2019;Aérea;Europa;81043
+1/10/2019;Aérea;Resto del mundo;21561
+1/10/2019;Fluvial/Marítima;Bolivia;7510
+1/10/2019;Fluvial/Marítima;Brasil;3377
+1/10/2019;Fluvial/Marítima;Chile;45
+1/10/2019;Fluvial/Marítima;Paraguay;8942
+1/10/2019;Fluvial/Marítima;Uruguay;32622
+1/10/2019;Fluvial/Marítima;EE.UU. y Canadá;0
+1/10/2019;Fluvial/Marítima;Resto de América;0
+1/10/2019;Fluvial/Marítima;Europa;0
+1/10/2019;Fluvial/Marítima;Resto del mundo;0
+1/10/2019;Terrestre;Bolivia;24071
+1/10/2019;Terrestre;Brasil;57270
+1/10/2019;Terrestre;Chile;58456
+1/10/2019;Terrestre;Paraguay;66725
+1/10/2019;Terrestre;Uruguay;31937
+1/10/2019;Terrestre;EE.UU. y Canadá;45
+1/10/2019;Terrestre;Resto de América;337
+1/10/2019;Terrestre;Europa;42
+1/10/2019;Terrestre;Resto del mundo;29
+1/11/2019;Aérea;Bolivia;1668
+1/11/2019;Aérea;Brasil;54276
+1/11/2019;Aérea;Chile;13550
+1/11/2019;Aérea;Paraguay;5238
+1/11/2019;Aérea;Uruguay;5715
+1/11/2019;Aérea;EE.UU. y Canadá;59676
+1/11/2019;Aérea;Resto de América;60703
+1/11/2019;Aérea;Europa;49410
+1/11/2019;Aérea;Resto del mundo;17810
+1/11/2019;Fluvial/Marítima;Bolivia;5279
+1/11/2019;Fluvial/Marítima;Brasil;3462
+1/11/2019;Fluvial/Marítima;Chile;111
+1/11/2019;Fluvial/Marítima;Paraguay;8051
+1/11/2019;Fluvial/Marítima;Uruguay;42381
+1/11/2019;Fluvial/Marítima;EE.UU. y Canadá;123
+1/11/2019;Fluvial/Marítima;Resto de América;737
+1/11/2019;Fluvial/Marítima;Europa;187
+1/11/2019;Fluvial/Marítima;Resto del mundo;0
+1/11/2019;Terrestre;Bolivia;16857
+1/11/2019;Terrestre;Brasil;54132
+1/11/2019;Terrestre;Chile;36849
+1/11/2019;Terrestre;Paraguay;98636
+1/11/2019;Terrestre;Uruguay;41799
+1/11/2019;Terrestre;EE.UU. y Canadá;47
+1/11/2019;Terrestre;Resto de América;327
+1/11/2019;Terrestre;Europa;47
+1/11/2019;Terrestre;Resto del mundo;34
+1/12/2019;Aérea;Bolivia;2026
+1/12/2019;Aérea;Brasil;55468
+1/12/2019;Aérea;Chile;15989
+1/12/2019;Aérea;Paraguay;4664
+1/12/2019;Aérea;Uruguay;7803
+1/12/2019;Aérea;EE.UU. y Canadá;51743
+1/12/2019;Aérea;Resto de América;57626
+1/12/2019;Aérea;Europa;36992
+1/12/2019;Aérea;Resto del mundo;10827
+1/12/2019;Fluvial/Marítima;Bolivia;6376
+1/12/2019;Fluvial/Marítima;Brasil;11952
+1/12/2019;Fluvial/Marítima;Chile;323
+1/12/2019;Fluvial/Marítima;Paraguay;10906
+1/12/2019;Fluvial/Marítima;Uruguay;59646
+1/12/2019;Fluvial/Marítima;EE.UU. y Canadá;18
+1/12/2019;Fluvial/Marítima;Resto de América;108
+1/12/2019;Fluvial/Marítima;Europa;28
+1/12/2019;Fluvial/Marítima;Resto del mundo;0
+1/12/2019;Terrestre;Bolivia;23350
+1/12/2019;Terrestre;Brasil;67690
+1/12/2019;Terrestre;Chile;57109
+1/12/2019;Terrestre;Paraguay;73580
+1/12/2019;Terrestre;Uruguay;51072
+1/12/2019;Terrestre;EE.UU. y Canadá;148
+1/12/2019;Terrestre;Resto de América;897
+1/12/2019;Terrestre;Europa;132
+1/12/2019;Terrestre;Resto del mundo;45
+1/1/2020;Aérea;Bolivia;2408
+1/1/2020;Aérea;Brasil;91684
+1/1/2020;Aérea;Chile;16198
+1/1/2020;Aérea;Paraguay;3707
+1/1/2020;Aérea;Uruguay;15574
+1/1/2020;Aérea;EE.UU. y Canadá;47202
+1/1/2020;Aérea;Resto de América;71469
+1/1/2020;Aérea;Europa;42781
+1/1/2020;Aérea;Resto del mundo;14013
+1/1/2020;Fluvial/Marítima;Bolivia;6294
+1/1/2020;Fluvial/Marítima;Brasil;11985
+1/1/2020;Fluvial/Marítima;Chile;1529
+1/1/2020;Fluvial/Marítima;Paraguay;16257
+1/1/2020;Fluvial/Marítima;Uruguay;109586
+1/1/2020;Fluvial/Marítima;EE.UU. y Canadá;161
+1/1/2020;Fluvial/Marítima;Resto de América;595
+1/1/2020;Fluvial/Marítima;Europa;189
+1/1/2020;Fluvial/Marítima;Resto del mundo;0
+1/1/2020;Terrestre;Bolivia;38675
+1/1/2020;Terrestre;Brasil;243132
+1/1/2020;Terrestre;Chile;134181
+1/1/2020;Terrestre;Paraguay;144290
+1/1/2020;Terrestre;Uruguay;154643
+1/1/2020;Terrestre;EE.UU. y Canadá;87
+1/1/2020;Terrestre;Resto de América;403
+1/1/2020;Terrestre;Europa;76
+1/1/2020;Terrestre;Resto del mundo;24
+1/2/2020;Aérea;Bolivia;3473
+1/2/2020;Aérea;Brasil;110860
+1/2/2020;Aérea;Chile;15286
+1/2/2020;Aérea;Paraguay;4057
+1/2/2020;Aérea;Uruguay;11398
+1/2/2020;Aérea;EE.UU. y Canadá;60053
+1/2/2020;Aérea;Resto de América;77073
+1/2/2020;Aérea;Europa;49744
+1/2/2020;Aérea;Resto del mundo;18095
+1/2/2020;Fluvial/Marítima;Bolivia;4657
+1/2/2020;Fluvial/Marítima;Brasil;14061
+1/2/2020;Fluvial/Marítima;Chile;1100
+1/2/2020;Fluvial/Marítima;Paraguay;11159
+1/2/2020;Fluvial/Marítima;Uruguay;108726
+1/2/2020;Fluvial/Marítima;EE.UU. y Canadá;193
+1/2/2020;Fluvial/Marítima;Resto de América;531
+1/2/2020;Fluvial/Marítima;Europa;194
+1/2/2020;Fluvial/Marítima;Resto del mundo;0
+1/2/2020;Terrestre;Bolivia;39094
+1/2/2020;Terrestre;Brasil;259321
+1/2/2020;Terrestre;Chile;146508
+1/2/2020;Terrestre;Paraguay;110331
+1/2/2020;Terrestre;Uruguay;158245
+1/2/2020;Terrestre;EE.UU. y Canadá;188
+1/2/2020;Terrestre;Resto de América;906
+1/2/2020;Terrestre;Europa;274
+1/2/2020;Terrestre;Resto del mundo;26
+1/3/2020;Aérea;Bolivia;846
+1/3/2020;Aérea;Brasil;45784
+1/3/2020;Aérea;Chile;9085
+1/3/2020;Aérea;Paraguay;2037
+1/3/2020;Aérea;Uruguay;2181
+1/3/2020;Aérea;EE.UU. y Canadá;20324
+1/3/2020;Aérea;Resto de América;28994
+1/3/2020;Aérea;Europa;21261
+1/3/2020;Aérea;Resto del mundo;7170
+1/3/2020;Fluvial/Marítima;Bolivia;6509
+1/3/2020;Fluvial/Marítima;Brasil;6670
+1/3/2020;Fluvial/Marítima;Chile;462
+1/3/2020;Fluvial/Marítima;Paraguay;3841
+1/3/2020;Fluvial/Marítima;Uruguay;17842
+1/3/2020;Fluvial/Marítima;EE.UU. y Canadá;62
+1/3/2020;Fluvial/Marítima;Resto de América;140
+1/3/2020;Fluvial/Marítima;Europa;65
+1/3/2020;Fluvial/Marítima;Resto del mundo;1
+1/3/2020;Terrestre;Bolivia;14295
+1/3/2020;Terrestre;Brasil;63133
+1/3/2020;Terrestre;Chile;28642
+1/3/2020;Terrestre;Paraguay;27312
+1/3/2020;Terrestre;Uruguay;23716
+1/3/2020;Terrestre;EE.UU. y Canadá;74
+1/3/2020;Terrestre;Resto de América;471
+1/3/2020;Terrestre;Europa;150
+1/3/2020;Terrestre;Resto del mundo;12
+1/4/2020;Aérea;Bolivia;0
+1/4/2020;Aérea;Brasil;0
+1/4/2020;Aérea;Chile;0
+1/4/2020;Aérea;Paraguay;0
+1/4/2020;Aérea;Uruguay;0
+1/4/2020;Aérea;EE.UU. y Canadá;0
+1/4/2020;Aérea;Resto de América;0
+1/4/2020;Aérea;Europa;0
+1/4/2020;Aérea;Resto del mundo;0
+1/4/2020;Fluvial/Marítima;Bolivia;0
+1/4/2020;Fluvial/Marítima;Brasil;0
+1/4/2020;Fluvial/Marítima;Chile;0
+1/4/2020;Fluvial/Marítima;Paraguay;0
+1/4/2020;Fluvial/Marítima;Uruguay;0
+1/4/2020;Fluvial/Marítima;EE.UU. y Canadá;0
+1/4/2020;Fluvial/Marítima;Resto de América;0
+1/4/2020;Fluvial/Marítima;Europa;0
+1/4/2020;Fluvial/Marítima;Resto del mundo;0
+1/4/2020;Terrestre;Bolivia;0
+1/4/2020;Terrestre;Brasil;0
+1/4/2020;Terrestre;Chile;0
+1/4/2020;Terrestre;Paraguay;0
+1/4/2020;Terrestre;Uruguay;0
+1/4/2020;Terrestre;EE.UU. y Canadá;0
+1/4/2020;Terrestre;Resto de América;0
+1/4/2020;Terrestre;Europa;0
+1/4/2020;Terrestre;Resto del mundo;0
+1/5/2020;Aérea;Bolivia;0
+1/5/2020;Aérea;Brasil;0
+1/5/2020;Aérea;Chile;0
+1/5/2020;Aérea;Paraguay;0
+1/5/2020;Aérea;Uruguay;0
+1/5/2020;Aérea;EE.UU. y Canadá;0
+1/5/2020;Aérea;Resto de América;0
+1/5/2020;Aérea;Europa;0
+1/5/2020;Aérea;Resto del mundo;0
+1/5/2020;Fluvial/Marítima;Bolivia;0
+1/5/2020;Fluvial/Marítima;Brasil;0
+1/5/2020;Fluvial/Marítima;Chile;0
+1/5/2020;Fluvial/Marítima;Paraguay;0
+1/5/2020;Fluvial/Marítima;Uruguay;0
+1/5/2020;Fluvial/Marítima;EE.UU. y Canadá;0
+1/5/2020;Fluvial/Marítima;Resto de América;0
+1/5/2020;Fluvial/Marítima;Europa;0
+1/5/2020;Fluvial/Marítima;Resto del mundo;0
+1/5/2020;Terrestre;Bolivia;0
+1/5/2020;Terrestre;Brasil;0
+1/5/2020;Terrestre;Chile;0
+1/5/2020;Terrestre;Paraguay;0
+1/5/2020;Terrestre;Uruguay;0
+1/5/2020;Terrestre;EE.UU. y Canadá;0
+1/5/2020;Terrestre;Resto de América;0
+1/5/2020;Terrestre;Europa;0
+1/5/2020;Terrestre;Resto del mundo;0
+1/6/2020;Aérea;Bolivia;0
+1/6/2020;Aérea;Brasil;0
+1/6/2020;Aérea;Chile;0
+1/6/2020;Aérea;Paraguay;0
+1/6/2020;Aérea;Uruguay;0
+1/6/2020;Aérea;EE.UU. y Canadá;0
+1/6/2020;Aérea;Resto de América;0
+1/6/2020;Aérea;Europa;0
+1/6/2020;Aérea;Resto del mundo;0
+1/6/2020;Fluvial/Marítima;Bolivia;0
+1/6/2020;Fluvial/Marítima;Brasil;0
+1/6/2020;Fluvial/Marítima;Chile;0
+1/6/2020;Fluvial/Marítima;Paraguay;0
+1/6/2020;Fluvial/Marítima;Uruguay;0
+1/6/2020;Fluvial/Marítima;EE.UU. y Canadá;0
+1/6/2020;Fluvial/Marítima;Resto de América;0
+1/6/2020;Fluvial/Marítima;Europa;0
+1/6/2020;Fluvial/Marítima;Resto del mundo;0
+1/6/2020;Terrestre;Bolivia;0
+1/6/2020;Terrestre;Brasil;0
+1/6/2020;Terrestre;Chile;0
+1/6/2020;Terrestre;Paraguay;0
+1/6/2020;Terrestre;Uruguay;0
+1/6/2020;Terrestre;EE.UU. y Canadá;0
+1/6/2020;Terrestre;Resto de América;0
+1/6/2020;Terrestre;Europa;0
+1/6/2020;Terrestre;Resto del mundo;0
+1/7/2020;Aérea;Bolivia;196
+1/7/2020;Aérea;Brasil;163
+1/7/2020;Aérea;Chile;289
+1/7/2020;Aérea;Paraguay;231
+1/7/2020;Aérea;Uruguay;14
+1/7/2020;Aérea;EE.UU. y Canadá;639
+1/7/2020;Aérea;Resto de América;799
+1/7/2020;Aérea;Europa;1234
+1/7/2020;Aérea;Resto del mundo;0
+1/7/2020;Fluvial/Marítima;Bolivia;0
+1/7/2020;Fluvial/Marítima;Brasil;0
+1/7/2020;Fluvial/Marítima;Chile;0
+1/7/2020;Fluvial/Marítima;Paraguay;2
+1/7/2020;Fluvial/Marítima;Uruguay;374
+1/7/2020;Fluvial/Marítima;EE.UU. y Canadá;0
+1/7/2020;Fluvial/Marítima;Resto de América;0
+1/7/2020;Fluvial/Marítima;Europa;0
+1/7/2020;Fluvial/Marítima;Resto del mundo;0
+1/7/2020;Terrestre;Bolivia;49
+1/7/2020;Terrestre;Brasil;442
+1/7/2020;Terrestre;Chile;119
+1/7/2020;Terrestre;Paraguay;468
+1/7/2020;Terrestre;Uruguay;417
+1/7/2020;Terrestre;EE.UU. y Canadá;0
+1/7/2020;Terrestre;Resto de América;0
+1/7/2020;Terrestre;Europa;0
+1/7/2020;Terrestre;Resto del mundo;0
+1/8/2020;Aérea;Bolivia;127
+1/8/2020;Aérea;Brasil;388
+1/8/2020;Aérea;Chile;144
+1/8/2020;Aérea;Paraguay;104
+1/8/2020;Aérea;Uruguay;59
+1/8/2020;Aérea;EE.UU. y Canadá;827
+1/8/2020;Aérea;Resto de América;333
+1/8/2020;Aérea;Europa;1511
+1/8/2020;Aérea;Resto del mundo;118
+1/8/2020;Fluvial/Marítima;Bolivia;0
+1/8/2020;Fluvial/Marítima;Brasil;0
+1/8/2020;Fluvial/Marítima;Chile;0
+1/8/2020;Fluvial/Marítima;Paraguay;7
+1/8/2020;Fluvial/Marítima;Uruguay;584
+1/8/2020;Fluvial/Marítima;EE.UU. y Canadá;0
+1/8/2020;Fluvial/Marítima;Resto de América;0
+1/8/2020;Fluvial/Marítima;Europa;0
+1/8/2020;Fluvial/Marítima;Resto del mundo;0
+1/8/2020;Terrestre;Bolivia;48
+1/8/2020;Terrestre;Brasil;430
+1/8/2020;Terrestre;Chile;205
+1/8/2020;Terrestre;Paraguay;546
+1/8/2020;Terrestre;Uruguay;525
+1/8/2020;Terrestre;EE.UU. y Canadá;0
+1/8/2020;Terrestre;Resto de América;0
+1/8/2020;Terrestre;Europa;0
+1/8/2020;Terrestre;Resto del mundo;0
+1/9/2020;Aérea;Bolivia;583
+1/9/2020;Aérea;Brasil;758
+1/9/2020;Aérea;Chile;414
+1/9/2020;Aérea;Paraguay;518
+1/9/2020;Aérea;Uruguay;81
+1/9/2020;Aérea;EE.UU. y Canadá;1853
+1/9/2020;Aérea;Resto de América;970
+1/9/2020;Aérea;Europa;3637
+1/9/2020;Aérea;Resto del mundo;136
+1/9/2020;Fluvial/Marítima;Bolivia;0
+1/9/2020;Fluvial/Marítima;Brasil;0
+1/9/2020;Fluvial/Marítima;Chile;0
+1/9/2020;Fluvial/Marítima;Paraguay;0
+1/9/2020;Fluvial/Marítima;Uruguay;779
+1/9/2020;Fluvial/Marítima;EE.UU. y Canadá;0
+1/9/2020;Fluvial/Marítima;Resto de América;0
+1/9/2020;Fluvial/Marítima;Europa;0
+1/9/2020;Fluvial/Marítima;Resto del mundo;0
+1/9/2020;Terrestre;Bolivia;87
+1/9/2020;Terrestre;Brasil;414
+1/9/2020;Terrestre;Chile;106
+1/9/2020;Terrestre;Paraguay;26
+1/9/2020;Terrestre;Uruguay;678
+1/9/2020;Terrestre;EE.UU. y Canadá;0
+1/9/2020;Terrestre;Resto de América;0
+1/9/2020;Terrestre;Europa;0
+1/9/2020;Terrestre;Resto del mundo;0
+1/10/2020;Aérea;Bolivia;1348
+1/10/2020;Aérea;Brasil;1359
+1/10/2020;Aérea;Chile;765
+1/10/2020;Aérea;Paraguay;359
+1/10/2020;Aérea;Uruguay;191
+1/10/2020;Aérea;EE.UU. y Canadá;4756
+1/10/2020;Aérea;Resto de América;1988
+1/10/2020;Aérea;Europa;4293
+1/10/2020;Aérea;Resto del mundo;56
+1/10/2020;Fluvial/Marítima;Bolivia;0
+1/10/2020;Fluvial/Marítima;Brasil;0
+1/10/2020;Fluvial/Marítima;Chile;0
+1/10/2020;Fluvial/Marítima;Paraguay;0
+1/10/2020;Fluvial/Marítima;Uruguay;1302
+1/10/2020;Fluvial/Marítima;EE.UU. y Canadá;0
+1/10/2020;Fluvial/Marítima;Resto de América;0
+1/10/2020;Fluvial/Marítima;Europa;0
+1/10/2020;Fluvial/Marítima;Resto del mundo;0
+1/10/2020;Terrestre;Bolivia;59
+1/10/2020;Terrestre;Brasil;480
+1/10/2020;Terrestre;Chile;341
+1/10/2020;Terrestre;Paraguay;68
+1/10/2020;Terrestre;Uruguay;1135
+1/10/2020;Terrestre;EE.UU. y Canadá;0
+1/10/2020;Terrestre;Resto de América;0
+1/10/2020;Terrestre;Europa;0
+1/10/2020;Terrestre;Resto del mundo;0
+1/11/2020;Aérea;Bolivia;1810
+1/11/2020;Aérea;Brasil;4029
+1/11/2020;Aérea;Chile;2721
+1/11/2020;Aérea;Paraguay;957
+1/11/2020;Aérea;Uruguay;291
+1/11/2020;Aérea;EE.UU. y Canadá;8956
+1/11/2020;Aérea;Resto de América;4165
+1/11/2020;Aérea;Europa;5633
+1/11/2020;Aérea;Resto del mundo;60
+1/11/2020;Fluvial/Marítima;Bolivia;0
+1/11/2020;Fluvial/Marítima;Brasil;2
+1/11/2020;Fluvial/Marítima;Chile;0
+1/11/2020;Fluvial/Marítima;Paraguay;0
+1/11/2020;Fluvial/Marítima;Uruguay;1697
+1/11/2020;Fluvial/Marítima;EE.UU. y Canadá;0
+1/11/2020;Fluvial/Marítima;Resto de América;0
+1/11/2020;Fluvial/Marítima;Europa;0
+1/11/2020;Fluvial/Marítima;Resto del mundo;0
+1/11/2020;Terrestre;Bolivia;126
+1/11/2020;Terrestre;Brasil;694
+1/11/2020;Terrestre;Chile;602
+1/11/2020;Terrestre;Paraguay;77
+1/11/2020;Terrestre;Uruguay;1720
+1/11/2020;Terrestre;EE.UU. y Canadá;0
+1/11/2020;Terrestre;Resto de América;0
+1/11/2020;Terrestre;Europa;0
+1/11/2020;Terrestre;Resto del mundo;0
+1/12/2020;Aérea;Bolivia;2927
+1/12/2020;Aérea;Brasil;5361
+1/12/2020;Aérea;Chile;6477
+1/12/2020;Aérea;Paraguay;4497
+1/12/2020;Aérea;Uruguay;248
+1/12/2020;Aérea;EE.UU. y Canadá;12925
+1/12/2020;Aérea;Resto de América;9149
+1/12/2020;Aérea;Europa;11123
+1/12/2020;Aérea;Resto del mundo;159
+1/12/2020;Fluvial/Marítima;Bolivia;0
+1/12/2020;Fluvial/Marítima;Brasil;0
+1/12/2020;Fluvial/Marítima;Chile;0
+1/12/2020;Fluvial/Marítima;Paraguay;1
+1/12/2020;Fluvial/Marítima;Uruguay;2515
+1/12/2020;Fluvial/Marítima;EE.UU. y Canadá;0
+1/12/2020;Fluvial/Marítima;Resto de América;0
+1/12/2020;Fluvial/Marítima;Europa;0
+1/12/2020;Fluvial/Marítima;Resto del mundo;0
+1/12/2020;Terrestre;Bolivia;126
+1/12/2020;Terrestre;Brasil;995
+1/12/2020;Terrestre;Chile;3091
+1/12/2020;Terrestre;Paraguay;389
+1/12/2020;Terrestre;Uruguay;2843
+1/12/2020;Terrestre;EE.UU. y Canadá;0
+1/12/2020;Terrestre;Resto de América;0
+1/12/2020;Terrestre;Europa;0
+1/12/2020;Terrestre;Resto del mundo;0
+1/1/2021;Aérea;Bolivia;1481
+1/1/2021;Aérea;Brasil;10859
+1/1/2021;Aérea;Chile;5500
+1/1/2021;Aérea;Paraguay;2297
+1/1/2021;Aérea;Uruguay;186
+1/1/2021;Aérea;EE.UU. y Canadá;15549
+1/1/2021;Aérea;Resto de América;17529
+1/1/2021;Aérea;Europa;4481
+1/1/2021;Aérea;Resto del mundo;1420
+1/1/2021;Fluvial/Marítima;Bolivia;0
+1/1/2021;Fluvial/Marítima;Brasil;0
+1/1/2021;Fluvial/Marítima;Chile;0
+1/1/2021;Fluvial/Marítima;Paraguay;0
+1/1/2021;Fluvial/Marítima;Uruguay;1732
+1/1/2021;Fluvial/Marítima;EE.UU. y Canadá;0
+1/1/2021;Fluvial/Marítima;Resto de América;0
+1/1/2021;Fluvial/Marítima;Europa;0
+1/1/2021;Fluvial/Marítima;Resto del mundo;0
+1/1/2021;Terrestre;Bolivia;97
+1/1/2021;Terrestre;Brasil;1020
+1/1/2021;Terrestre;Chile;987
+1/1/2021;Terrestre;Paraguay;73
+1/1/2021;Terrestre;Uruguay;1278
+1/1/2021;Terrestre;EE.UU. y Canadá;0
+1/1/2021;Terrestre;Resto de América;0
+1/1/2021;Terrestre;Europa;0
+1/1/2021;Terrestre;Resto del mundo;0
+1/2/2021;Aérea;Bolivia;2943
+1/2/2021;Aérea;Brasil;7778
+1/2/2021;Aérea;Chile;4916
+1/2/2021;Aérea;Paraguay;2916
+1/2/2021;Aérea;Uruguay;233
+1/2/2021;Aérea;EE.UU. y Canadá;14672
+1/2/2021;Aérea;Resto de América;19420
+1/2/2021;Aérea;Europa;4239
+1/2/2021;Aérea;Resto del mundo;649
+1/2/2021;Fluvial/Marítima;Bolivia;0
+1/2/2021;Fluvial/Marítima;Brasil;0
+1/2/2021;Fluvial/Marítima;Chile;0
+1/2/2021;Fluvial/Marítima;Paraguay;0
+1/2/2021;Fluvial/Marítima;Uruguay;3178
+1/2/2021;Fluvial/Marítima;EE.UU. y Canadá;0
+1/2/2021;Fluvial/Marítima;Resto de América;0
+1/2/2021;Fluvial/Marítima;Europa;0
+1/2/2021;Fluvial/Marítima;Resto del mundo;0
+1/2/2021;Terrestre;Bolivia;111
+1/2/2021;Terrestre;Brasil;876
+1/2/2021;Terrestre;Chile;864
+1/2/2021;Terrestre;Paraguay;78
+1/2/2021;Terrestre;Uruguay;1042
+1/2/2021;Terrestre;EE.UU. y Canadá;0
+1/2/2021;Terrestre;Resto de América;0
+1/2/2021;Terrestre;Europa;0
+1/2/2021;Terrestre;Resto del mundo;0
+1/3/2021;Aérea;Bolivia;2656
+1/3/2021;Aérea;Brasil;6951
+1/3/2021;Aérea;Chile;3810
+1/3/2021;Aérea;Paraguay;4724
+1/3/2021;Aérea;Uruguay;270
+1/3/2021;Aérea;EE.UU. y Canadá;10186
+1/3/2021;Aérea;Resto de América;20166
+1/3/2021;Aérea;Europa;3521
+1/3/2021;Aérea;Resto del mundo;564
+1/3/2021;Fluvial/Marítima;Bolivia;0
+1/3/2021;Fluvial/Marítima;Brasil;8
+1/3/2021;Fluvial/Marítima;Chile;0
+1/3/2021;Fluvial/Marítima;Paraguay;0
+1/3/2021;Fluvial/Marítima;Uruguay;4556
+1/3/2021;Fluvial/Marítima;EE.UU. y Canadá;0
+1/3/2021;Fluvial/Marítima;Resto de América;0
+1/3/2021;Fluvial/Marítima;Europa;0
+1/3/2021;Fluvial/Marítima;Resto del mundo;0
+1/3/2021;Terrestre;Bolivia;165
+1/3/2021;Terrestre;Brasil;732
+1/3/2021;Terrestre;Chile;608
+1/3/2021;Terrestre;Paraguay;247
+1/3/2021;Terrestre;Uruguay;484
+1/3/2021;Terrestre;EE.UU. y Canadá;0
+1/3/2021;Terrestre;Resto de América;0
+1/3/2021;Terrestre;Europa;0
+1/3/2021;Terrestre;Resto del mundo;0
+1/4/2021;Aérea;Bolivia;1641
+1/4/2021;Aérea;Brasil;1375
+1/4/2021;Aérea;Chile;1263
+1/4/2021;Aérea;Paraguay;2070
+1/4/2021;Aérea;Uruguay;269
+1/4/2021;Aérea;EE.UU. y Canadá;11337
+1/4/2021;Aérea;Resto de América;7141
+1/4/2021;Aérea;Europa;3062
+1/4/2021;Aérea;Resto del mundo;164
+1/4/2021;Fluvial/Marítima;Bolivia;0
+1/4/2021;Fluvial/Marítima;Brasil;3
+1/4/2021;Fluvial/Marítima;Chile;0
+1/4/2021;Fluvial/Marítima;Paraguay;0
+1/4/2021;Fluvial/Marítima;Uruguay;2348
+1/4/2021;Fluvial/Marítima;EE.UU. y Canadá;0
+1/4/2021;Fluvial/Marítima;Resto de América;0
+1/4/2021;Fluvial/Marítima;Europa;0
+1/4/2021;Fluvial/Marítima;Resto del mundo;0
+1/4/2021;Terrestre;Bolivia;166
+1/4/2021;Terrestre;Brasil;15
+1/4/2021;Terrestre;Chile;170
+1/4/2021;Terrestre;Paraguay;19
+1/4/2021;Terrestre;Uruguay;56
+1/4/2021;Terrestre;EE.UU. y Canadá;0
+1/4/2021;Terrestre;Resto de América;0
+1/4/2021;Terrestre;Europa;0
+1/4/2021;Terrestre;Resto del mundo;0
+1/5/2021;Aérea;Bolivia;1350
+1/5/2021;Aérea;Brasil;1303
+1/5/2021;Aérea;Chile;1291
+1/5/2021;Aérea;Paraguay;1555
+1/5/2021;Aérea;Uruguay;321
+1/5/2021;Aérea;EE.UU. y Canadá;14890
+1/5/2021;Aérea;Resto de América;6263
+1/5/2021;Aérea;Europa;2966
+1/5/2021;Aérea;Resto del mundo;91
+1/5/2021;Fluvial/Marítima;Bolivia;0
+1/5/2021;Fluvial/Marítima;Brasil;0
+1/5/2021;Fluvial/Marítima;Chile;0
+1/5/2021;Fluvial/Marítima;Paraguay;0
+1/5/2021;Fluvial/Marítima;Uruguay;2786
+1/5/2021;Fluvial/Marítima;EE.UU. y Canadá;0
+1/5/2021;Fluvial/Marítima;Resto de América;0
+1/5/2021;Fluvial/Marítima;Europa;0
+1/5/2021;Fluvial/Marítima;Resto del mundo;0
+1/5/2021;Terrestre;Bolivia;157
+1/5/2021;Terrestre;Brasil;8
+1/5/2021;Terrestre;Chile;131
+1/5/2021;Terrestre;Paraguay;15
+1/5/2021;Terrestre;Uruguay;40
+1/5/2021;Terrestre;EE.UU. y Canadá;0
+1/5/2021;Terrestre;Resto de América;0
+1/5/2021;Terrestre;Europa;0
+1/5/2021;Terrestre;Resto del mundo;0
+1/6/2021;Aérea;Bolivia;1767
+1/6/2021;Aérea;Brasil;795
+1/6/2021;Aérea;Chile;1079
+1/6/2021;Aérea;Paraguay;1428
+1/6/2021;Aérea;Uruguay;423
+1/6/2021;Aérea;EE.UU. y Canadá;21161
+1/6/2021;Aérea;Resto de América;5836
+1/6/2021;Aérea;Europa;4626
+1/6/2021;Aérea;Resto del mundo;97
+1/6/2021;Fluvial/Marítima;Bolivia;0
+1/6/2021;Fluvial/Marítima;Brasil;0
+1/6/2021;Fluvial/Marítima;Chile;0
+1/6/2021;Fluvial/Marítima;Paraguay;0
+1/6/2021;Fluvial/Marítima;Uruguay;3698
+1/6/2021;Fluvial/Marítima;EE.UU. y Canadá;0
+1/6/2021;Fluvial/Marítima;Resto de América;0
+1/6/2021;Fluvial/Marítima;Europa;0
+1/6/2021;Fluvial/Marítima;Resto del mundo;0
+1/6/2021;Terrestre;Bolivia;123
+1/6/2021;Terrestre;Brasil;12
+1/6/2021;Terrestre;Chile;69
+1/6/2021;Terrestre;Paraguay;40
+1/6/2021;Terrestre;Uruguay;40
+1/6/2021;Terrestre;EE.UU. y Canadá;0
+1/6/2021;Terrestre;Resto de América;0
+1/6/2021;Terrestre;Europa;0
+1/6/2021;Terrestre;Resto del mundo;0
+1/7/2021;Aérea;Bolivia;436
+1/7/2021;Aérea;Brasil;501
+1/7/2021;Aérea;Chile;101
+1/7/2021;Aérea;Paraguay;1356
+1/7/2021;Aérea;Uruguay;726
+1/7/2021;Aérea;EE.UU. y Canadá;14939
+1/7/2021;Aérea;Resto de América;2816
+1/7/2021;Aérea;Europa;4322
+1/7/2021;Aérea;Resto del mundo;4
+1/7/2021;Fluvial/Marítima;Bolivia;0
+1/7/2021;Fluvial/Marítima;Brasil;0
+1/7/2021;Fluvial/Marítima;Chile;0
+1/7/2021;Fluvial/Marítima;Paraguay;0
+1/7/2021;Fluvial/Marítima;Uruguay;3754
+1/7/2021;Fluvial/Marítima;EE.UU. y Canadá;0
+1/7/2021;Fluvial/Marítima;Resto de América;0
+1/7/2021;Fluvial/Marítima;Europa;0
+1/7/2021;Fluvial/Marítima;Resto del mundo;0
+1/7/2021;Terrestre;Bolivia;397
+1/7/2021;Terrestre;Brasil;55
+1/7/2021;Terrestre;Chile;242
+1/7/2021;Terrestre;Paraguay;47
+1/7/2021;Terrestre;Uruguay;42
+1/7/2021;Terrestre;EE.UU. y Canadá;0
+1/7/2021;Terrestre;Resto de América;0
+1/7/2021;Terrestre;Europa;0
+1/7/2021;Terrestre;Resto del mundo;0
+1/8/2021;Aérea;Bolivia;945
+1/8/2021;Aérea;Brasil;1015
+1/8/2021;Aérea;Chile;1136
+1/8/2021;Aérea;Paraguay;1142
+1/8/2021;Aérea;Uruguay;1156
+1/8/2021;Aérea;EE.UU. y Canadá;19402
+1/8/2021;Aérea;Resto de América;4595
+1/8/2021;Aérea;Europa;11461
+1/8/2021;Aérea;Resto del mundo;46
+1/8/2021;Fluvial/Marítima;Bolivia;0
+1/8/2021;Fluvial/Marítima;Brasil;0
+1/8/2021;Fluvial/Marítima;Chile;0
+1/8/2021;Fluvial/Marítima;Paraguay;0
+1/8/2021;Fluvial/Marítima;Uruguay;4427
+1/8/2021;Fluvial/Marítima;EE.UU. y Canadá;0
+1/8/2021;Fluvial/Marítima;Resto de América;0
+1/8/2021;Fluvial/Marítima;Europa;0
+1/8/2021;Fluvial/Marítima;Resto del mundo;0
+1/8/2021;Terrestre;Bolivia;452
+1/8/2021;Terrestre;Brasil;14
+1/8/2021;Terrestre;Chile;217
+1/8/2021;Terrestre;Paraguay;22
+1/8/2021;Terrestre;Uruguay;39
+1/8/2021;Terrestre;EE.UU. y Canadá;0
+1/8/2021;Terrestre;Resto de América;0
+1/8/2021;Terrestre;Europa;0
+1/8/2021;Terrestre;Resto del mundo;0
+1/9/2021;Aérea;Bolivia;1232
+1/9/2021;Aérea;Brasil;1222
+1/9/2021;Aérea;Chile;1249
+1/9/2021;Aérea;Paraguay;1007
+1/9/2021;Aérea;Uruguay;898
+1/9/2021;Aérea;EE.UU. y Canadá;23085
+1/9/2021;Aérea;Resto de América;5248
+1/9/2021;Aérea;Europa;14371
+1/9/2021;Aérea;Resto del mundo;14
+1/9/2021;Fluvial/Marítima;Bolivia;0
+1/9/2021;Fluvial/Marítima;Brasil;0
+1/9/2021;Fluvial/Marítima;Chile;0
+1/9/2021;Fluvial/Marítima;Paraguay;0
+1/9/2021;Fluvial/Marítima;Uruguay;4596
+1/9/2021;Fluvial/Marítima;EE.UU. y Canadá;0
+1/9/2021;Fluvial/Marítima;Resto de América;0
+1/9/2021;Fluvial/Marítima;Europa;0
+1/9/2021;Fluvial/Marítima;Resto del mundo;0
+1/9/2021;Terrestre;Bolivia;474
+1/9/2021;Terrestre;Brasil;172
+1/9/2021;Terrestre;Chile;505
+1/9/2021;Terrestre;Paraguay;76
+1/9/2021;Terrestre;Uruguay;44
+1/9/2021;Terrestre;EE.UU. y Canadá;0
+1/9/2021;Terrestre;Resto de América;0
+1/9/2021;Terrestre;Europa;0
+1/9/2021;Terrestre;Resto del mundo;0
+1/10/2021;Aérea;Bolivia;790
+1/10/2021;Aérea;Brasil;3124
+1/10/2021;Aérea;Chile;1670
+1/10/2021;Aérea;Paraguay;1665
+1/10/2021;Aérea;Uruguay;1968
+1/10/2021;Aérea;EE.UU. y Canadá;33340
+1/10/2021;Aérea;Resto de América;7219
+1/10/2021;Aérea;Europa;18638
+1/10/2021;Aérea;Resto del mundo;1076
+1/10/2021;Fluvial/Marítima;Bolivia;0
+1/10/2021;Fluvial/Marítima;Brasil;0
+1/10/2021;Fluvial/Marítima;Chile;0
+1/10/2021;Fluvial/Marítima;Paraguay;0
+1/10/2021;Fluvial/Marítima;Uruguay;7736
+1/10/2021;Fluvial/Marítima;EE.UU. y Canadá;0
+1/10/2021;Fluvial/Marítima;Resto de América;0
+1/10/2021;Fluvial/Marítima;Europa;0
+1/10/2021;Fluvial/Marítima;Resto del mundo;0
+1/10/2021;Terrestre;Bolivia;934
+1/10/2021;Terrestre;Brasil;3335
+1/10/2021;Terrestre;Chile;1146
+1/10/2021;Terrestre;Paraguay;2647
+1/10/2021;Terrestre;Uruguay;372
+1/10/2021;Terrestre;EE.UU. y Canadá;0
+1/10/2021;Terrestre;Resto de América;0
+1/10/2021;Terrestre;Europa;0
+1/10/2021;Terrestre;Resto del mundo;0
+1/11/2021;Aérea;Bolivia;928
+1/11/2021;Aérea;Brasil;6881
+1/11/2021;Aérea;Chile;4431
+1/11/2021;Aérea;Paraguay;2281
+1/11/2021;Aérea;Uruguay;2076
+1/11/2021;Aérea;EE.UU. y Canadá;36573
+1/11/2021;Aérea;Resto de América;21547
+1/11/2021;Aérea;Europa;18299
+1/11/2021;Aérea;Resto del mundo;1584
+1/11/2021;Fluvial/Marítima;Bolivia;0
+1/11/2021;Fluvial/Marítima;Brasil;0
+1/11/2021;Fluvial/Marítima;Chile;34
+1/11/2021;Fluvial/Marítima;Paraguay;1
+1/11/2021;Fluvial/Marítima;Uruguay;23452
+1/11/2021;Fluvial/Marítima;EE.UU. y Canadá;0
+1/11/2021;Fluvial/Marítima;Resto de América;0
+1/11/2021;Fluvial/Marítima;Europa;0
+1/11/2021;Fluvial/Marítima;Resto del mundo;0
+1/11/2021;Terrestre;Bolivia;1954
+1/11/2021;Terrestre;Brasil;6004
+1/11/2021;Terrestre;Chile;1236
+1/11/2021;Terrestre;Paraguay;14546
+1/11/2021;Terrestre;Uruguay;7300
+1/11/2021;Terrestre;EE.UU. y Canadá;0
+1/11/2021;Terrestre;Resto de América;0
+1/11/2021;Terrestre;Europa;0
+1/11/2021;Terrestre;Resto del mundo;0
+1/12/2021;Aérea;Bolivia;1605
+1/12/2021;Aérea;Brasil;11906
+1/12/2021;Aérea;Chile;8241
+1/12/2021;Aérea;Paraguay;2437
+1/12/2021;Aérea;Uruguay;3623
+1/12/2021;Aérea;EE.UU. y Canadá;23491
+1/12/2021;Aérea;Resto de América;27158
+1/12/2021;Aérea;Europa;13860
+1/12/2021;Aérea;Resto del mundo;2071
+1/12/2021;Fluvial/Marítima;Bolivia;0
+1/12/2021;Fluvial/Marítima;Brasil;4
+1/12/2021;Fluvial/Marítima;Chile;8
+1/12/2021;Fluvial/Marítima;Paraguay;75
+1/12/2021;Fluvial/Marítima;Uruguay;26976
+1/12/2021;Fluvial/Marítima;EE.UU. y Canadá;0
+1/12/2021;Fluvial/Marítima;Resto de América;0
+1/12/2021;Fluvial/Marítima;Europa;1
+1/12/2021;Fluvial/Marítima;Resto del mundo;0
+1/12/2021;Terrestre;Bolivia;3308
+1/12/2021;Terrestre;Brasil;11871
+1/12/2021;Terrestre;Chile;3335
+1/12/2021;Terrestre;Paraguay;22019
+1/12/2021;Terrestre;Uruguay;12425
+1/12/2021;Terrestre;EE.UU. y Canadá;0
+1/12/2021;Terrestre;Resto de América;0
+1/12/2021;Terrestre;Europa;0
+1/12/2021;Terrestre;Resto del mundo;0
+1/1/2022;Aérea;Bolivia;3153
+1/1/2022;Aérea;Brasil;29414
+1/1/2022;Aérea;Chile;7502
+1/1/2022;Aérea;Paraguay;2149
+1/1/2022;Aérea;Uruguay;8195
+1/1/2022;Aérea;EE.UU. y Canadá;24215
+1/1/2022;Aérea;Resto de América;37779
+1/1/2022;Aérea;Europa;20193
+1/1/2022;Aérea;Resto del mundo;3163
+1/1/2022;Fluvial/Marítima;Bolivia;0
+1/1/2022;Fluvial/Marítima;Brasil;219
+1/1/2022;Fluvial/Marítima;Chile;5
+1/1/2022;Fluvial/Marítima;Paraguay;554
+1/1/2022;Fluvial/Marítima;Uruguay;47772
+1/1/2022;Fluvial/Marítima;EE.UU. y Canadá;312
+1/1/2022;Fluvial/Marítima;Resto de América;1310
+1/1/2022;Fluvial/Marítima;Europa;217
+1/1/2022;Fluvial/Marítima;Resto del mundo;51
+1/1/2022;Terrestre;Bolivia;4206
+1/1/2022;Terrestre;Brasil;88611
+1/1/2022;Terrestre;Chile;7020
+1/1/2022;Terrestre;Paraguay;87436
+1/1/2022;Terrestre;Uruguay;44490
+1/1/2022;Terrestre;EE.UU. y Canadá;0
+1/1/2022;Terrestre;Resto de América;0
+1/1/2022;Terrestre;Europa;0
+1/1/2022;Terrestre;Resto del mundo;0
+1/2/2022;Aérea;Bolivia;2927
+1/2/2022;Aérea;Brasil;44335
+1/2/2022;Aérea;Chile;6558
+1/2/2022;Aérea;Paraguay;2229
+1/2/2022;Aérea;Uruguay;6304
+1/2/2022;Aérea;EE.UU. y Canadá;29331
+1/2/2022;Aérea;Resto de América;49901
+1/2/2022;Aérea;Europa;17304
+1/2/2022;Aérea;Resto del mundo;3548
+1/2/2022;Fluvial/Marítima;Bolivia;0
+1/2/2022;Fluvial/Marítima;Brasil;4301
+1/2/2022;Fluvial/Marítima;Chile;1
+1/2/2022;Fluvial/Marítima;Paraguay;552
+1/2/2022;Fluvial/Marítima;Uruguay;46044
+1/2/2022;Fluvial/Marítima;EE.UU. y Canadá;0
+1/2/2022;Fluvial/Marítima;Resto de América;0
+1/2/2022;Fluvial/Marítima;Europa;0
+1/2/2022;Fluvial/Marítima;Resto del mundo;0
+1/2/2022;Terrestre;Bolivia;6288
+1/2/2022;Terrestre;Brasil;136517
+1/2/2022;Terrestre;Chile;9721
+1/2/2022;Terrestre;Paraguay;59725
+1/2/2022;Terrestre;Uruguay;42642
+1/2/2022;Terrestre;EE.UU. y Canadá;0
+1/2/2022;Terrestre;Resto de América;0
+1/2/2022;Terrestre;Europa;0
+1/2/2022;Terrestre;Resto del mundo;0
+1/3/2022;Aérea;Bolivia;2399
+1/3/2022;Aérea;Brasil;41198
+1/3/2022;Aérea;Chile;10189
+1/3/2022;Aérea;Paraguay;2509
+1/3/2022;Aérea;Uruguay;4423
+1/3/2022;Aérea;EE.UU. y Canadá;35683
+1/3/2022;Aérea;Resto de América;47849
+1/3/2022;Aérea;Europa;25618
+1/3/2022;Aérea;Resto del mundo;2293
+1/3/2022;Fluvial/Marítima;Bolivia;0
+1/3/2022;Fluvial/Marítima;Brasil;3404
+1/3/2022;Fluvial/Marítima;Chile;26
+1/3/2022;Fluvial/Marítima;Paraguay;818
+1/3/2022;Fluvial/Marítima;Uruguay;35564
+1/3/2022;Fluvial/Marítima;EE.UU. y Canadá;126
+1/3/2022;Fluvial/Marítima;Resto de América;454
+1/3/2022;Fluvial/Marítima;Europa;126
+1/3/2022;Fluvial/Marítima;Resto del mundo;24
+1/3/2022;Terrestre;Bolivia;7156
+1/3/2022;Terrestre;Brasil;74822
+1/3/2022;Terrestre;Chile;11239
+1/3/2022;Terrestre;Paraguay;43500
+1/3/2022;Terrestre;Uruguay;32485
+1/3/2022;Terrestre;EE.UU. y Canadá;4
+1/3/2022;Terrestre;Resto de América;26
+1/3/2022;Terrestre;Europa;4
+1/3/2022;Terrestre;Resto del mundo;3
+1/4/2022;Aérea;Bolivia;1303
+1/4/2022;Aérea;Brasil;37024
+1/4/2022;Aérea;Chile;10848
+1/4/2022;Aérea;Paraguay;2826
+1/4/2022;Aérea;Uruguay;3526
+1/4/2022;Aérea;EE.UU. y Canadá;30754
+1/4/2022;Aérea;Resto de América;48723
+1/4/2022;Aérea;Europa;28776
+1/4/2022;Aérea;Resto del mundo;3298
+1/4/2022;Fluvial/Marítima;Bolivia;165
+1/4/2022;Fluvial/Marítima;Brasil;3960
+1/4/2022;Fluvial/Marítima;Chile;23
+1/4/2022;Fluvial/Marítima;Paraguay;2517
+1/4/2022;Fluvial/Marítima;Uruguay;30620
+1/4/2022;Fluvial/Marítima;EE.UU. y Canadá;168
+1/4/2022;Fluvial/Marítima;Resto de América;493
+1/4/2022;Fluvial/Marítima;Europa;152
+1/4/2022;Fluvial/Marítima;Resto del mundo;31
+1/4/2022;Terrestre;Bolivia;5493
+1/4/2022;Terrestre;Brasil;53700
+1/4/2022;Terrestre;Chile;13826
+1/4/2022;Terrestre;Paraguay;59050
+1/4/2022;Terrestre;Uruguay;34111
+1/4/2022;Terrestre;EE.UU. y Canadá;7
+1/4/2022;Terrestre;Resto de América;36
+1/4/2022;Terrestre;Europa;7
+1/4/2022;Terrestre;Resto del mundo;7
+1/5/2022;Aérea;Bolivia;2047
+1/5/2022;Aérea;Brasil;33695
+1/5/2022;Aérea;Chile;14438
+1/5/2022;Aérea;Paraguay;2878
+1/5/2022;Aérea;Uruguay;2654
+1/5/2022;Aérea;EE.UU. y Canadá;38697
+1/5/2022;Aérea;Resto de América;51127
+1/5/2022;Aérea;Europa;40401
+1/5/2022;Aérea;Resto del mundo;4272
+1/5/2022;Fluvial/Marítima;Bolivia;627
+1/5/2022;Fluvial/Marítima;Brasil;3858
+1/5/2022;Fluvial/Marítima;Chile;16
+1/5/2022;Fluvial/Marítima;Paraguay;3987
+1/5/2022;Fluvial/Marítima;Uruguay;20443
+1/5/2022;Fluvial/Marítima;EE.UU. y Canadá;205
+1/5/2022;Fluvial/Marítima;Resto de América;765
+1/5/2022;Fluvial/Marítima;Europa;159
+1/5/2022;Fluvial/Marítima;Resto del mundo;51
+1/5/2022;Terrestre;Bolivia;7702
+1/5/2022;Terrestre;Brasil;27379
+1/5/2022;Terrestre;Chile;32198
+1/5/2022;Terrestre;Paraguay;51386
+1/5/2022;Terrestre;Uruguay;23236
+1/5/2022;Terrestre;EE.UU. y Canadá;50
+1/5/2022;Terrestre;Resto de América;273
+1/5/2022;Terrestre;Europa;43
+1/5/2022;Terrestre;Resto del mundo;51
+1/6/2022;Aérea;Bolivia;1925
+1/6/2022;Aérea;Brasil;25729
+1/6/2022;Aérea;Chile;13988
+1/6/2022;Aérea;Paraguay;3419
+1/6/2022;Aérea;Uruguay;2683
+1/6/2022;Aérea;EE.UU. y Canadá;39287
+1/6/2022;Aérea;Resto de América;52693
+1/6/2022;Aérea;Europa;52354
+1/6/2022;Aérea;Resto del mundo;5278
+1/6/2022;Fluvial/Marítima;Bolivia;763
+1/6/2022;Fluvial/Marítima;Brasil;2367
+1/6/2022;Fluvial/Marítima;Chile;2
+1/6/2022;Fluvial/Marítima;Paraguay;3700
+1/6/2022;Fluvial/Marítima;Uruguay;21438
+1/6/2022;Fluvial/Marítima;EE.UU. y Canadá;171
+1/6/2022;Fluvial/Marítima;Resto de América;584
+1/6/2022;Fluvial/Marítima;Europa;119
+1/6/2022;Fluvial/Marítima;Resto del mundo;42
+1/6/2022;Terrestre;Bolivia;8972
+1/6/2022;Terrestre;Brasil;25560
+1/6/2022;Terrestre;Chile;26513
+1/6/2022;Terrestre;Paraguay;46557
+1/6/2022;Terrestre;Uruguay;25855
+1/6/2022;Terrestre;EE.UU. y Canadá;26
+1/6/2022;Terrestre;Resto de América;151
+1/6/2022;Terrestre;Europa;22
+1/6/2022;Terrestre;Resto del mundo;18
+1/7/2022;Aérea;Bolivia;1911
+1/7/2022;Aérea;Brasil;39109
+1/7/2022;Aérea;Chile;16017
+1/7/2022;Aérea;Paraguay;2798
+1/7/2022;Aérea;Uruguay;1662
+1/7/2022;Aérea;EE.UU. y Canadá;38224
+1/7/2022;Aérea;Resto de América;53465
+1/7/2022;Aérea;Europa;55546
+1/7/2022;Aérea;Resto del mundo;5012
+1/7/2022;Fluvial/Marítima;Bolivia;1850
+1/7/2022;Fluvial/Marítima;Brasil;4730
+1/7/2022;Fluvial/Marítima;Chile;0
+1/7/2022;Fluvial/Marítima;Paraguay;8540
+1/7/2022;Fluvial/Marítima;Uruguay;27954
+1/7/2022;Fluvial/Marítima;EE.UU. y Canadá;95
+1/7/2022;Fluvial/Marítima;Resto de América;303
+1/7/2022;Fluvial/Marítima;Europa;68
+1/7/2022;Fluvial/Marítima;Resto del mundo;12
+1/7/2022;Terrestre;Bolivia;17421
+1/7/2022;Terrestre;Brasil;63363
+1/7/2022;Terrestre;Chile;24540
+1/7/2022;Terrestre;Paraguay;73158
+1/7/2022;Terrestre;Uruguay;33200
+1/7/2022;Terrestre;EE.UU. y Canadá;9
+1/7/2022;Terrestre;Resto de América;66
+1/7/2022;Terrestre;Europa;6
+1/7/2022;Terrestre;Resto del mundo;7
+1/8/2022;Aérea;Bolivia;1980
+1/8/2022;Aérea;Brasil;37489
+1/8/2022;Aérea;Chile;12189
+1/8/2022;Aérea;Paraguay;2786
+1/8/2022;Aérea;Uruguay;2777
+1/8/2022;Aérea;EE.UU. y Canadá;43747
+1/8/2022;Aérea;Resto de América;56270
+1/8/2022;Aérea;Europa;71032
+1/8/2022;Aérea;Resto del mundo;5356
+1/8/2022;Fluvial/Marítima;Bolivia;2158
+1/8/2022;Fluvial/Marítima;Brasil;3021
+1/8/2022;Fluvial/Marítima;Chile;11
+1/8/2022;Fluvial/Marítima;Paraguay;6758
+1/8/2022;Fluvial/Marítima;Uruguay;24421
+1/8/2022;Fluvial/Marítima;EE.UU. y Canadá;25
+1/8/2022;Fluvial/Marítima;Resto de América;144
+1/8/2022;Fluvial/Marítima;Europa;39
+1/8/2022;Fluvial/Marítima;Resto del mundo;5
+1/8/2022;Terrestre;Bolivia;17812
+1/8/2022;Terrestre;Brasil;30257
+1/8/2022;Terrestre;Chile;30768
+1/8/2022;Terrestre;Paraguay;49832
+1/8/2022;Terrestre;Uruguay;25907
+1/8/2022;Terrestre;EE.UU. y Canadá;4
+1/8/2022;Terrestre;Resto de América;29
+1/8/2022;Terrestre;Europa;3
+1/8/2022;Terrestre;Resto del mundo;3
+1/9/2022;Aérea;Bolivia;1201
+1/9/2022;Aérea;Brasil;41915
+1/9/2022;Aérea;Chile;13158
+1/9/2022;Aérea;Paraguay;3383
+1/9/2022;Aérea;Uruguay;3703
+1/9/2022;Aérea;EE.UU. y Canadá;40637
+1/9/2022;Aérea;Resto de América;45694
+1/9/2022;Aérea;Europa;74361
+1/9/2022;Aérea;Resto del mundo;6901
+1/9/2022;Fluvial/Marítima;Bolivia;2467
+1/9/2022;Fluvial/Marítima;Brasil;3308
+1/9/2022;Fluvial/Marítima;Chile;9
+1/9/2022;Fluvial/Marítima;Paraguay;6039
+1/9/2022;Fluvial/Marítima;Uruguay;28103
+1/9/2022;Fluvial/Marítima;EE.UU. y Canadá;32
+1/9/2022;Fluvial/Marítima;Resto de América;195
+1/9/2022;Fluvial/Marítima;Europa;49
+1/9/2022;Fluvial/Marítima;Resto del mundo;8
+1/9/2022;Terrestre;Bolivia;17520
+1/9/2022;Terrestre;Brasil;31505
+1/9/2022;Terrestre;Chile;48477
+1/9/2022;Terrestre;Paraguay;45137
+1/9/2022;Terrestre;Uruguay;27156
+1/9/2022;Terrestre;EE.UU. y Canadá;4
+1/9/2022;Terrestre;Resto de América;28
+1/9/2022;Terrestre;Europa;5
+1/9/2022;Terrestre;Resto del mundo;3
+1/10/2022;Aérea;Bolivia;474
+1/10/2022;Aérea;Brasil;54815
+1/10/2022;Aérea;Chile;18887
+1/10/2022;Aérea;Paraguay;4130
+1/10/2022;Aérea;Uruguay;3700
+1/10/2022;Aérea;EE.UU. y Canadá;48934
+1/10/2022;Aérea;Resto de América;50893
+1/10/2022;Aérea;Europa;65189
+1/10/2022;Aérea;Resto del mundo;6554
+1/10/2022;Fluvial/Marítima;Bolivia;1493
+1/10/2022;Fluvial/Marítima;Brasil;4480
+1/10/2022;Fluvial/Marítima;Chile;28
+1/10/2022;Fluvial/Marítima;Paraguay;6423
+1/10/2022;Fluvial/Marítima;Uruguay;41022
+1/10/2022;Fluvial/Marítima;EE.UU. y Canadá;0
+1/10/2022;Fluvial/Marítima;Resto de América;0
+1/10/2022;Fluvial/Marítima;Europa;6
+1/10/2022;Fluvial/Marítima;Resto del mundo;0
+1/10/2022;Terrestre;Bolivia;14281
+1/10/2022;Terrestre;Brasil;45512
+1/10/2022;Terrestre;Chile;73451
+1/10/2022;Terrestre;Paraguay;55563
+1/10/2022;Terrestre;Uruguay;40713
+1/10/2022;Terrestre;EE.UU. y Canadá;25
+1/10/2022;Terrestre;Resto de América;191
+1/10/2022;Terrestre;Europa;24
+1/10/2022;Terrestre;Resto del mundo;17
+1/11/2022;Aérea;Bolivia;534
+1/11/2022;Aérea;Brasil;38545
+1/11/2022;Aérea;Chile;11977
+1/11/2022;Aérea;Paraguay;4135
+1/11/2022;Aérea;Uruguay;5561
+1/11/2022;Aérea;EE.UU. y Canadá;40306
+1/11/2022;Aérea;Resto de América;47764
+1/11/2022;Aérea;Europa;49359
+1/11/2022;Aérea;Resto del mundo;8337
+1/11/2022;Fluvial/Marítima;Bolivia;1760
+1/11/2022;Fluvial/Marítima;Brasil;3839
+1/11/2022;Fluvial/Marítima;Chile;65
+1/11/2022;Fluvial/Marítima;Paraguay;6735
+1/11/2022;Fluvial/Marítima;Uruguay;37092
+1/11/2022;Fluvial/Marítima;EE.UU. y Canadá;134
+1/11/2022;Fluvial/Marítima;Resto de América;794
+1/11/2022;Fluvial/Marítima;Europa;204
+1/11/2022;Fluvial/Marítima;Resto del mundo;0
+1/11/2022;Terrestre;Bolivia;14270
+1/11/2022;Terrestre;Brasil;37444
+1/11/2022;Terrestre;Chile;65483
+1/11/2022;Terrestre;Paraguay;44915
+1/11/2022;Terrestre;Uruguay;30379
+1/11/2022;Terrestre;EE.UU. y Canadá;69
+1/11/2022;Terrestre;Resto de América;479
+1/11/2022;Terrestre;Europa;69
+1/11/2022;Terrestre;Resto del mundo;50
+1/12/2022;Aérea;Bolivia;989
+1/12/2022;Aérea;Brasil;38316
+1/12/2022;Aérea;Chile;12424
+1/12/2022;Aérea;Paraguay;3296
+1/12/2022;Aérea;Uruguay;5210
+1/12/2022;Aérea;EE.UU. y Canadá;25132
+1/12/2022;Aérea;Resto de América;37922
+1/12/2022;Aérea;Europa;26232
+1/12/2022;Aérea;Resto del mundo;20504
+1/12/2022;Fluvial/Marítima;Bolivia;1710
+1/12/2022;Fluvial/Marítima;Brasil;4834
+1/12/2022;Fluvial/Marítima;Chile;239
+1/12/2022;Fluvial/Marítima;Paraguay;8664
+1/12/2022;Fluvial/Marítima;Uruguay;54554
+1/12/2022;Fluvial/Marítima;EE.UU. y Canadá;150
+1/12/2022;Fluvial/Marítima;Resto de América;865
+1/12/2022;Fluvial/Marítima;Europa;227
+1/12/2022;Fluvial/Marítima;Resto del mundo;0
+1/12/2022;Terrestre;Bolivia;15878
+1/12/2022;Terrestre;Brasil;43287
+1/12/2022;Terrestre;Chile;70015
+1/12/2022;Terrestre;Paraguay;46797
+1/12/2022;Terrestre;Uruguay;39811
+1/12/2022;Terrestre;EE.UU. y Canadá;89
+1/12/2022;Terrestre;Resto de América;540
+1/12/2022;Terrestre;Europa;80
+1/12/2022;Terrestre;Resto del mundo;27
+1/1/2023;Aérea;Bolivia;1149
+1/1/2023;Aérea;Brasil;98005
+1/1/2023;Aérea;Chile;19074
+1/1/2023;Aérea;Paraguay;4106
+1/1/2023;Aérea;Uruguay;3380
+1/1/2023;Aérea;EE.UU. y Canadá;43098
+1/1/2023;Aérea;Resto de América;65895
+1/1/2023;Aérea;Europa;37709
+1/1/2023;Aérea;Resto del mundo;10502
+1/1/2023;Fluvial/Marítima;Bolivia;3925
+1/1/2023;Fluvial/Marítima;Brasil;11673
+1/1/2023;Fluvial/Marítima;Chile;1287
+1/1/2023;Fluvial/Marítima;Paraguay;22555
+1/1/2023;Fluvial/Marítima;Uruguay;115110
+1/1/2023;Fluvial/Marítima;EE.UU. y Canadá;115
+1/1/2023;Fluvial/Marítima;Resto de América;485
+1/1/2023;Fluvial/Marítima;Europa;86
+1/1/2023;Fluvial/Marítima;Resto del mundo;25
+1/1/2023;Terrestre;Bolivia;40046
+1/1/2023;Terrestre;Brasil;307168
+1/1/2023;Terrestre;Chile;204309
+1/1/2023;Terrestre;Paraguay;154109
+1/1/2023;Terrestre;Uruguay;143295
+1/1/2023;Terrestre;EE.UU. y Canadá;90
+1/1/2023;Terrestre;Resto de América;912
+1/1/2023;Terrestre;Europa;118
+1/1/2023;Terrestre;Resto del mundo;75
+1/2/2023;Aérea;Bolivia;3254
+1/2/2023;Aérea;Brasil;95801
+1/2/2023;Aérea;Chile;15193
+1/2/2023;Aérea;Paraguay;2652
+1/2/2023;Aérea;Uruguay;4760
+1/2/2023;Aérea;EE.UU. y Canadá;51603
+1/2/2023;Aérea;Resto de América;67415
+1/2/2023;Aérea;Europa;38700
+1/2/2023;Aérea;Resto del mundo;10058
+1/2/2023;Fluvial/Marítima;Bolivia;3675
+1/2/2023;Fluvial/Marítima;Brasil;11955
+1/2/2023;Fluvial/Marítima;Chile;1557
+1/2/2023;Fluvial/Marítima;Paraguay;12902
+1/2/2023;Fluvial/Marítima;Uruguay;92608
+1/2/2023;Fluvial/Marítima;EE.UU. y Canadá;923
+1/2/2023;Fluvial/Marítima;Resto de América;2922
+1/2/2023;Fluvial/Marítima;Europa;724
+1/2/2023;Fluvial/Marítima;Resto del mundo;135
+1/2/2023;Terrestre;Bolivia;51831
+1/2/2023;Terrestre;Brasil;299176
+1/2/2023;Terrestre;Chile;147976
+1/2/2023;Terrestre;Paraguay;94845
+1/2/2023;Terrestre;Uruguay;140381
+1/2/2023;Terrestre;EE.UU. y Canadá;54
+1/2/2023;Terrestre;Resto de América;340
+1/2/2023;Terrestre;Europa;54
+1/2/2023;Terrestre;Resto del mundo;43
+1/3/2023;Aérea;Bolivia;962
+1/3/2023;Aérea;Brasil;80969
+1/3/2023;Aérea;Chile;12201
+1/3/2023;Aérea;Paraguay;2924
+1/3/2023;Aérea;Uruguay;2261
+1/3/2023;Aérea;EE.UU. y Canadá;53312
+1/3/2023;Aérea;Resto de América;58219
+1/3/2023;Aérea;Europa;32059
+1/3/2023;Aérea;Resto del mundo;10133
+1/3/2023;Fluvial/Marítima;Bolivia;2143
+1/3/2023;Fluvial/Marítima;Brasil;7082
+1/3/2023;Fluvial/Marítima;Chile;512
+1/3/2023;Fluvial/Marítima;Paraguay;7295
+1/3/2023;Fluvial/Marítima;Uruguay;61717
+1/3/2023;Fluvial/Marítima;EE.UU. y Canadá;371
+1/3/2023;Fluvial/Marítima;Resto de América;1324
+1/3/2023;Fluvial/Marítima;Europa;368
+1/3/2023;Fluvial/Marítima;Resto del mundo;71
+1/3/2023;Terrestre;Bolivia;29158
+1/3/2023;Terrestre;Brasil;134376
+1/3/2023;Terrestre;Chile;77846
+1/3/2023;Terrestre;Paraguay;50239
+1/3/2023;Terrestre;Uruguay;51760
+1/3/2023;Terrestre;EE.UU. y Canadá;81
+1/3/2023;Terrestre;Resto de América;340
+1/3/2023;Terrestre;Europa;53
+1/3/2023;Terrestre;Resto del mundo;55
+1/4/2023;Aérea;Bolivia;1456
+1/4/2023;Aérea;Brasil;56144
+1/4/2023;Aérea;Chile;13589
+1/4/2023;Aérea;Paraguay;2059
+1/4/2023;Aérea;Uruguay;1806
+1/4/2023;Aérea;EE.UU. y Canadá;41905
+1/4/2023;Aérea;Resto de América;54351
+1/4/2023;Aérea;Europa;43746
+1/4/2023;Aérea;Resto del mundo;7780
+1/4/2023;Fluvial/Marítima;Bolivia;1730
+1/4/2023;Fluvial/Marítima;Brasil;4964
+1/4/2023;Fluvial/Marítima;Chile;51
+1/4/2023;Fluvial/Marítima;Paraguay;7381
+1/4/2023;Fluvial/Marítima;Uruguay;37701
+1/4/2023;Fluvial/Marítima;EE.UU. y Canadá;100
+1/4/2023;Fluvial/Marítima;Resto de América;296
+1/4/2023;Fluvial/Marítima;Europa;90
+1/4/2023;Fluvial/Marítima;Resto del mundo;22
+1/4/2023;Terrestre;Bolivia;16596
+1/4/2023;Terrestre;Brasil;63540
+1/4/2023;Terrestre;Chile;72869
+1/4/2023;Terrestre;Paraguay;65823
+1/4/2023;Terrestre;Uruguay;37250
+1/4/2023;Terrestre;EE.UU. y Canadá;62
+1/4/2023;Terrestre;Resto de América;320
+1/4/2023;Terrestre;Europa;58
+1/4/2023;Terrestre;Resto del mundo;62
+1/5/2023;Aérea;Bolivia;998
+1/5/2023;Aérea;Brasil;44304
+1/5/2023;Aérea;Chile;15652
+1/5/2023;Aérea;Paraguay;3202
+1/5/2023;Aérea;Uruguay;1750
+1/5/2023;Aérea;EE.UU. y Canadá;49694
+1/5/2023;Aérea;Resto de América;57556
+1/5/2023;Aérea;Europa;63569
+1/5/2023;Aérea;Resto del mundo;8988
+1/5/2023;Fluvial/Marítima;Bolivia;2192
+1/5/2023;Fluvial/Marítima;Brasil;4468
+1/5/2023;Fluvial/Marítima;Chile;35
+1/5/2023;Fluvial/Marítima;Paraguay;8597
+1/5/2023;Fluvial/Marítima;Uruguay;31766
+1/5/2023;Fluvial/Marítima;EE.UU. y Canadá;111
+1/5/2023;Fluvial/Marítima;Resto de América;413
+1/5/2023;Fluvial/Marítima;Europa;85
+1/5/2023;Fluvial/Marítima;Resto del mundo;28
+1/5/2023;Terrestre;Bolivia;16911
+1/5/2023;Terrestre;Brasil;39155
+1/5/2023;Terrestre;Chile;52158
+1/5/2023;Terrestre;Paraguay;59909
+1/5/2023;Terrestre;Uruguay;28605
+1/5/2023;Terrestre;EE.UU. y Canadá;45
+1/5/2023;Terrestre;Resto de América;244
+1/5/2023;Terrestre;Europa;38
+1/5/2023;Terrestre;Resto del mundo;45
+1/6/2023;Aérea;Bolivia;958
+1/6/2023;Aérea;Brasil;30937
+1/6/2023;Aérea;Chile;15048
+1/6/2023;Aérea;Paraguay;3804
+1/6/2023;Aérea;Uruguay;2260
+1/6/2023;Aérea;EE.UU. y Canadá;53528
+1/6/2023;Aérea;Resto de América;46866
+1/6/2023;Aérea;Europa;74924
+1/6/2023;Aérea;Resto del mundo;5076
+1/6/2023;Fluvial/Marítima;Bolivia;1794
+1/6/2023;Fluvial/Marítima;Brasil;3325
+1/6/2023;Fluvial/Marítima;Chile;2
+1/6/2023;Fluvial/Marítima;Paraguay;7473
+1/6/2023;Fluvial/Marítima;Uruguay;24803
+1/6/2023;Fluvial/Marítima;EE.UU. y Canadá;0
+1/6/2023;Fluvial/Marítima;Resto de América;0
+1/6/2023;Fluvial/Marítima;Europa;0
+1/6/2023;Fluvial/Marítima;Resto del mundo;0
+1/6/2023;Terrestre;Bolivia;13743
+1/6/2023;Terrestre;Brasil;29428
+1/6/2023;Terrestre;Chile;29989
+1/6/2023;Terrestre;Paraguay;46286
+1/6/2023;Terrestre;Uruguay;21177
+1/6/2023;Terrestre;EE.UU. y Canadá;30
+1/6/2023;Terrestre;Resto de América;174
+1/6/2023;Terrestre;Europa;25
+1/6/2023;Terrestre;Resto del mundo;21
+1/7/2023;Aérea;Bolivia;2775
+1/7/2023;Aérea;Brasil;43329
+1/7/2023;Aérea;Chile;14383
+1/7/2023;Aérea;Paraguay;3490
+1/7/2023;Aérea;Uruguay;946
+1/7/2023;Aérea;EE.UU. y Canadá;54047
+1/7/2023;Aérea;Resto de América;52403
+1/7/2023;Aérea;Europa;70038
+1/7/2023;Aérea;Resto del mundo;5086
+1/7/2023;Fluvial/Marítima;Bolivia;3476
+1/7/2023;Fluvial/Marítima;Brasil;4797
+1/7/2023;Fluvial/Marítima;Chile;0
+1/7/2023;Fluvial/Marítima;Paraguay;14891
+1/7/2023;Fluvial/Marítima;Uruguay;29200
+1/7/2023;Fluvial/Marítima;EE.UU. y Canadá;147
+1/7/2023;Fluvial/Marítima;Resto de América;470
+1/7/2023;Fluvial/Marítima;Europa;105
+1/7/2023;Fluvial/Marítima;Resto del mundo;19
+1/7/2023;Terrestre;Bolivia;26199
+1/7/2023;Terrestre;Brasil;63380
+1/7/2023;Terrestre;Chile;34165
+1/7/2023;Terrestre;Paraguay;82497
+1/7/2023;Terrestre;Uruguay;29999
+1/7/2023;Terrestre;EE.UU. y Canadá;0
+1/7/2023;Terrestre;Resto de América;0
+1/7/2023;Terrestre;Europa;0
+1/7/2023;Terrestre;Resto del mundo;0
+1/8/2023;Aérea;Bolivia;1931
+1/8/2023;Aérea;Brasil;41258
+1/8/2023;Aérea;Chile;16533
+1/8/2023;Aérea;Paraguay;3281
+1/8/2023;Aérea;Uruguay;3376
+1/8/2023;Aérea;EE.UU. y Canadá;47511
+1/8/2023;Aérea;Resto de América;54150
+1/8/2023;Aérea;Europa;74465
+1/8/2023;Aérea;Resto del mundo;7191
+1/8/2023;Fluvial/Marítima;Bolivia;2883
+1/8/2023;Fluvial/Marítima;Brasil;3782
+1/8/2023;Fluvial/Marítima;Chile;18
+1/8/2023;Fluvial/Marítima;Paraguay;9301
+1/8/2023;Fluvial/Marítima;Uruguay;26046
+1/8/2023;Fluvial/Marítima;EE.UU. y Canadá;0
+1/8/2023;Fluvial/Marítima;Resto de América;0
+1/8/2023;Fluvial/Marítima;Europa;0
+1/8/2023;Fluvial/Marítima;Resto del mundo;0
+1/8/2023;Terrestre;Bolivia;24629
+1/8/2023;Terrestre;Brasil;33419
+1/8/2023;Terrestre;Chile;30817
+1/8/2023;Terrestre;Paraguay;52873
+1/8/2023;Terrestre;Uruguay;23764
+1/8/2023;Terrestre;EE.UU. y Canadá;38
+1/8/2023;Terrestre;Resto de América;253
+1/8/2023;Terrestre;Europa;27
+1/8/2023;Terrestre;Resto del mundo;28
+1/9/2023;Aérea;Bolivia;2572
+1/9/2023;Aérea;Brasil;39106
+1/9/2023;Aérea;Chile;14820
+1/9/2023;Aérea;Paraguay;3151
+1/9/2023;Aérea;Uruguay;3383
+1/9/2023;Aérea;EE.UU. y Canadá;53047
+1/9/2023;Aérea;Resto de América;45947
+1/9/2023;Aérea;Europa;80720
+1/9/2023;Aérea;Resto del mundo;7933
+1/9/2023;Fluvial/Marítima;Bolivia;2281
+1/9/2023;Fluvial/Marítima;Brasil;3963
+1/9/2023;Fluvial/Marítima;Chile;12
+1/9/2023;Fluvial/Marítima;Paraguay;7331
+1/9/2023;Fluvial/Marítima;Uruguay;26057
+1/9/2023;Fluvial/Marítima;EE.UU. y Canadá;0
+1/9/2023;Fluvial/Marítima;Resto de América;0
+1/9/2023;Fluvial/Marítima;Europa;1
+1/9/2023;Fluvial/Marítima;Resto del mundo;0
+1/9/2023;Terrestre;Bolivia;20527
+1/9/2023;Terrestre;Brasil;30939
+1/9/2023;Terrestre;Chile;35304
+1/9/2023;Terrestre;Paraguay;45671
+1/9/2023;Terrestre;Uruguay;21338
+1/9/2023;Terrestre;EE.UU. y Canadá;66
+1/9/2023;Terrestre;Resto de América;477
+1/9/2023;Terrestre;Europa;78
+1/9/2023;Terrestre;Resto del mundo;43
+1/10/2023;Aérea;Bolivia;1404
+1/10/2023;Aérea;Brasil;49341
+1/10/2023;Aérea;Chile;16426
+1/10/2023;Aérea;Paraguay;2890
+1/10/2023;Aérea;Uruguay;4955
+1/10/2023;Aérea;EE.UU. y Canadá;60958
+1/10/2023;Aérea;Resto de América;47443
+1/10/2023;Aérea;Europa;77839
+1/10/2023;Aérea;Resto del mundo;10657
+1/10/2023;Fluvial/Marítima;Bolivia;1691
+1/10/2023;Fluvial/Marítima;Brasil;1760
+1/10/2023;Fluvial/Marítima;Chile;32
+1/10/2023;Fluvial/Marítima;Paraguay;8433
+1/10/2023;Fluvial/Marítima;Uruguay;35439
+1/10/2023;Fluvial/Marítima;EE.UU. y Canadá;136
+1/10/2023;Fluvial/Marítima;Resto de América;783
+1/10/2023;Fluvial/Marítima;Europa;206
+1/10/2023;Fluvial/Marítima;Resto del mundo;0
+1/10/2023;Terrestre;Bolivia;16356
+1/10/2023;Terrestre;Brasil;40508
+1/10/2023;Terrestre;Chile;60598
+1/10/2023;Terrestre;Paraguay;52600
+1/10/2023;Terrestre;Uruguay;33902
+1/10/2023;Terrestre;EE.UU. y Canadá;6
+1/10/2023;Terrestre;Resto de América;51
+1/10/2023;Terrestre;Europa;6
+1/10/2023;Terrestre;Resto del mundo;4
+1/11/2023;Aérea;Bolivia;2021
+1/11/2023;Aérea;Brasil;58520
+1/11/2023;Aérea;Chile;15327
+1/11/2023;Aérea;Paraguay;2784
+1/11/2023;Aérea;Uruguay;4826
+1/11/2023;Aérea;EE.UU. y Canadá;40465
+1/11/2023;Aérea;Resto de América;47612
+1/11/2023;Aérea;Europa;55585
+1/11/2023;Aérea;Resto del mundo;8427
+1/11/2023;Fluvial/Marítima;Bolivia;1843
+1/11/2023;Fluvial/Marítima;Brasil;1703
+1/11/2023;Fluvial/Marítima;Chile;73
+1/11/2023;Fluvial/Marítima;Paraguay;4934
+1/11/2023;Fluvial/Marítima;Uruguay;33058
+1/11/2023;Fluvial/Marítima;EE.UU. y Canadá;19
+1/11/2023;Fluvial/Marítima;Resto de América;125
+1/11/2023;Fluvial/Marítima;Europa;34
+1/11/2023;Fluvial/Marítima;Resto del mundo;0
+1/11/2023;Terrestre;Bolivia;17114
+1/11/2023;Terrestre;Brasil;46963
+1/11/2023;Terrestre;Chile;50253
+1/11/2023;Terrestre;Paraguay;41886
+1/11/2023;Terrestre;Uruguay;27767
+1/11/2023;Terrestre;EE.UU. y Canadá;109
+1/11/2023;Terrestre;Resto de América;752
+1/11/2023;Terrestre;Europa;109
+1/11/2023;Terrestre;Resto del mundo;78
+1/12/2023;Aérea;Bolivia;1039
+1/12/2023;Aérea;Brasil;50942
+1/12/2023;Aérea;Chile;10625
+1/12/2023;Aérea;Paraguay;2877
+1/12/2023;Aérea;Uruguay;6293
+1/12/2023;Aérea;EE.UU. y Canadá;30869
+1/12/2023;Aérea;Resto de América;43244
+1/12/2023;Aérea;Europa;22596
+1/12/2023;Aérea;Resto del mundo;5269
+1/12/2023;Fluvial/Marítima;Bolivia;1530
+1/12/2023;Fluvial/Marítima;Brasil;13633
+1/12/2023;Fluvial/Marítima;Chile;161
+1/12/2023;Fluvial/Marítima;Paraguay;7763
+1/12/2023;Fluvial/Marítima;Uruguay;51868
+1/12/2023;Fluvial/Marítima;EE.UU. y Canadá;0
+1/12/2023;Fluvial/Marítima;Resto de América;0
+1/12/2023;Fluvial/Marítima;Europa;0
+1/12/2023;Fluvial/Marítima;Resto del mundo;0
+1/12/2023;Terrestre;Bolivia;17867
+1/12/2023;Terrestre;Brasil;42048
+1/12/2023;Terrestre;Chile;64112
+1/12/2023;Terrestre;Paraguay;46246
+1/12/2023;Terrestre;Uruguay;40520
+1/12/2023;Terrestre;EE.UU. y Canadá;126
+1/12/2023;Terrestre;Resto de América;761
+1/12/2023;Terrestre;Europa;112
+1/12/2023;Terrestre;Resto del mundo;38
+1/1/2024;Aérea;Bolivia;2751
+1/1/2024;Aérea;Brasil;106759
+1/1/2024;Aérea;Chile;18140
+1/1/2024;Aérea;Paraguay;2848
+1/1/2024;Aérea;Uruguay;11056
+1/1/2024;Aérea;EE.UU. y Canadá;44327
+1/1/2024;Aérea;Resto de América;67712
+1/1/2024;Aérea;Europa;43745
+1/1/2024;Aérea;Resto del mundo;10057
+1/1/2024;Fluvial/Marítima;Bolivia;3898
+1/1/2024;Fluvial/Marítima;Brasil;18347
+1/1/2024;Fluvial/Marítima;Chile;1951
+1/1/2024;Fluvial/Marítima;Paraguay;18725
+1/1/2024;Fluvial/Marítima;Uruguay;94205
+1/1/2024;Fluvial/Marítima;EE.UU. y Canadá;76
+1/1/2024;Fluvial/Marítima;Resto de América;324
+1/1/2024;Fluvial/Marítima;Europa;53
+1/1/2024;Fluvial/Marítima;Resto del mundo;12
+1/1/2024;Terrestre;Bolivia;39270
+1/1/2024;Terrestre;Brasil;218878
+1/1/2024;Terrestre;Chile;147188
+1/1/2024;Terrestre;Paraguay;139208
+1/1/2024;Terrestre;Uruguay;120937
+1/1/2024;Terrestre;EE.UU. y Canadá;161
+1/1/2024;Terrestre;Resto de América;1627
+1/1/2024;Terrestre;Europa;211
+1/1/2024;Terrestre;Resto del mundo;135
+1/2/2024;Aérea;Bolivia;3554
+1/2/2024;Aérea;Brasil;118999
+1/2/2024;Aérea;Chile;16841
+1/2/2024;Aérea;Paraguay;2142
+1/2/2024;Aérea;Uruguay;8333
+1/2/2024;Aérea;EE.UU. y Canadá;56299
+1/2/2024;Aérea;Resto de América;72146
+1/2/2024;Aérea;Europa;38200
+1/2/2024;Aérea;Resto del mundo;8531
+1/2/2024;Fluvial/Marítima;Bolivia;4103
+1/2/2024;Fluvial/Marítima;Brasil;16683
+1/2/2024;Fluvial/Marítima;Chile;1558
+1/2/2024;Fluvial/Marítima;Paraguay;9049
+1/2/2024;Fluvial/Marítima;Uruguay;79886
+1/2/2024;Fluvial/Marítima;EE.UU. y Canadá;0
+1/2/2024;Fluvial/Marítima;Resto de América;3
+1/2/2024;Fluvial/Marítima;Europa;0
+1/2/2024;Fluvial/Marítima;Resto del mundo;2
+1/2/2024;Terrestre;Bolivia;60480
+1/2/2024;Terrestre;Brasil;221636
+1/2/2024;Terrestre;Chile;131004
+1/2/2024;Terrestre;Paraguay;86377
+1/2/2024;Terrestre;Uruguay;110737
+1/2/2024;Terrestre;EE.UU. y Canadá;60
+1/2/2024;Terrestre;Resto de América;375
+1/2/2024;Terrestre;Europa;59
+1/2/2024;Terrestre;Resto del mundo;47
+1/3/2024;Aérea;Bolivia;2404
+1/3/2024;Aérea;Brasil;92102
+1/3/2024;Aérea;Chile;15485
+1/3/2024;Aérea;Paraguay;2689
+1/3/2024;Aérea;Uruguay;3841
+1/3/2024;Aérea;EE.UU. y Canadá;44283
+1/3/2024;Aérea;Resto de América;67208
+1/3/2024;Aérea;Europa;37253
+1/3/2024;Aérea;Resto del mundo;7478
+1/3/2024;Fluvial/Marítima;Bolivia;2495
+1/3/2024;Fluvial/Marítima;Brasil;14293
+1/3/2024;Fluvial/Marítima;Chile;823
+1/3/2024;Fluvial/Marítima;Paraguay;4599
+1/3/2024;Fluvial/Marítima;Uruguay;42278
+1/3/2024;Fluvial/Marítima;EE.UU. y Canadá;58
+1/3/2024;Fluvial/Marítima;Resto de América;208
+1/3/2024;Fluvial/Marítima;Europa;65
+1/3/2024;Fluvial/Marítima;Resto del mundo;11
+1/3/2024;Terrestre;Bolivia;26858
+1/3/2024;Terrestre;Brasil;111438
+1/3/2024;Terrestre;Chile;91826
+1/3/2024;Terrestre;Paraguay;52884
+1/3/2024;Terrestre;Uruguay;45737
+1/3/2024;Terrestre;EE.UU. y Canadá;75
+1/3/2024;Terrestre;Resto de América;316
+1/3/2024;Terrestre;Europa;49
+1/3/2024;Terrestre;Resto del mundo;51
+1/4/2024;Aérea;Bolivia;2874
+1/4/2024;Aérea;Brasil;68140
+1/4/2024;Aérea;Chile;17966
+1/4/2024;Aérea;Paraguay;5058
+1/4/2024;Aérea;Uruguay;4554
+1/4/2024;Aérea;EE.UU. y Canadá;48204
+1/4/2024;Aérea;Resto de América;57129
+1/4/2024;Aérea;Europa;44592
+1/4/2024;Aérea;Resto del mundo;11679
+1/4/2024;Fluvial/Marítima;Bolivia;2097
+1/4/2024;Fluvial/Marítima;Brasil;6596
+1/4/2024;Fluvial/Marítima;Chile;218
+1/4/2024;Fluvial/Marítima;Paraguay;7140
+1/4/2024;Fluvial/Marítima;Uruguay;48513
+1/4/2024;Fluvial/Marítima;EE.UU. y Canadá;0
+1/4/2024;Fluvial/Marítima;Resto de América;0
+1/4/2024;Fluvial/Marítima;Europa;0
+1/4/2024;Fluvial/Marítima;Resto del mundo;0
+1/4/2024;Terrestre;Bolivia;20826
+1/4/2024;Terrestre;Brasil;73558
+1/4/2024;Terrestre;Chile;156217
+1/4/2024;Terrestre;Paraguay;77664
+1/4/2024;Terrestre;Uruguay;56756
+1/4/2024;Terrestre;EE.UU. y Canadá;94
+1/4/2024;Terrestre;Resto de América;489
+1/4/2024;Terrestre;Europa;89
+1/4/2024;Terrestre;Resto del mundo;96
+1/5/2024;Aérea;Bolivia;1902
+1/5/2024;Aérea;Brasil;40891
+1/5/2024;Aérea;Chile;18066
+1/5/2024;Aérea;Paraguay;3816
+1/5/2024;Aérea;Uruguay;3502
+1/5/2024;Aérea;EE.UU. y Canadá;51441
+1/5/2024;Aérea;Resto de América;61434
+1/5/2024;Aérea;Europa;61385
+1/5/2024;Aérea;Resto del mundo;10991
+1/5/2024;Fluvial/Marítima;Bolivia;1731
+1/5/2024;Fluvial/Marítima;Brasil;3951
+1/5/2024;Fluvial/Marítima;Chile;12
+1/5/2024;Fluvial/Marítima;Paraguay;5215
+1/5/2024;Fluvial/Marítima;Uruguay;24258
+1/5/2024;Fluvial/Marítima;EE.UU. y Canadá;2
+1/5/2024;Fluvial/Marítima;Resto de América;9
+1/5/2024;Fluvial/Marítima;Europa;1
+1/5/2024;Fluvial/Marítima;Resto del mundo;0
+1/5/2024;Terrestre;Bolivia;16732
+1/5/2024;Terrestre;Brasil;32135
+1/5/2024;Terrestre;Chile;90447
+1/5/2024;Terrestre;Paraguay;55672
+1/5/2024;Terrestre;Uruguay;21237
+1/5/2024;Terrestre;EE.UU. y Canadá;98
+1/5/2024;Terrestre;Resto de América;537
+1/5/2024;Terrestre;Europa;83
+1/5/2024;Terrestre;Resto del mundo;100
+1/6/2024;Aérea;Bolivia;2343
+1/6/2024;Aérea;Brasil;39710
+1/6/2024;Aérea;Chile;26657
+1/6/2024;Aérea;Paraguay;3276
+1/6/2024;Aérea;Uruguay;3997
+1/6/2024;Aérea;EE.UU. y Canadá;50663
+1/6/2024;Aérea;Resto de América;69856
+1/6/2024;Aérea;Europa;73894
+1/6/2024;Aérea;Resto del mundo;7850
+1/6/2024;Fluvial/Marítima;Bolivia;1721
+1/6/2024;Fluvial/Marítima;Brasil;5165
+1/6/2024;Fluvial/Marítima;Chile;15
+1/6/2024;Fluvial/Marítima;Paraguay;4743
+1/6/2024;Fluvial/Marítima;Uruguay;29176
+1/6/2024;Fluvial/Marítima;EE.UU. y Canadá;119
+1/6/2024;Fluvial/Marítima;Resto de América;406
+1/6/2024;Fluvial/Marítima;Europa;83
+1/6/2024;Fluvial/Marítima;Resto del mundo;30
+1/6/2024;Terrestre;Bolivia;16102
+1/6/2024;Terrestre;Brasil;33761
+1/6/2024;Terrestre;Chile;44338
+1/6/2024;Terrestre;Paraguay;61601
+1/6/2024;Terrestre;Uruguay;25148
+1/6/2024;Terrestre;EE.UU. y Canadá;7
+1/6/2024;Terrestre;Resto de América;40
+1/6/2024;Terrestre;Europa;6
+1/6/2024;Terrestre;Resto del mundo;4
+1/7/2024;Aérea;Bolivia;2627
+1/7/2024;Aérea;Brasil;61555
+1/7/2024;Aérea;Chile;37692
+1/7/2024;Aérea;Paraguay;2445
+1/7/2024;Aérea;Uruguay;3558
+1/7/2024;Aérea;EE.UU. y Canadá;69443
+1/7/2024;Aérea;Resto de América;64824
+1/7/2024;Aérea;Europa;71239
+1/7/2024;Aérea;Resto del mundo;6654
+1/7/2024;Fluvial/Marítima;Bolivia;3250
+1/7/2024;Fluvial/Marítima;Brasil;6290
+1/7/2024;Fluvial/Marítima;Chile;14
+1/7/2024;Fluvial/Marítima;Paraguay;9293
+1/7/2024;Fluvial/Marítima;Uruguay;32224
+1/7/2024;Fluvial/Marítima;EE.UU. y Canadá;0
+1/7/2024;Fluvial/Marítima;Resto de América;0
+1/7/2024;Fluvial/Marítima;Europa;0
+1/7/2024;Fluvial/Marítima;Resto del mundo;0
+1/7/2024;Terrestre;Bolivia;29805
+1/7/2024;Terrestre;Brasil;59452
+1/7/2024;Terrestre;Chile;81508
+1/7/2024;Terrestre;Paraguay;95223
+1/7/2024;Terrestre;Uruguay;29065
+1/7/2024;Terrestre;EE.UU. y Canadá;48
+1/7/2024;Terrestre;Resto de América;334
+1/7/2024;Terrestre;Europa;32
+1/7/2024;Terrestre;Resto del mundo;36
+1/8/2024;Aérea;Bolivia;3400
+1/8/2024;Aérea;Brasil;45400
+1/8/2024;Aérea;Chile;26944
+1/8/2024;Aérea;Paraguay;3777
+1/8/2024;Aérea;Uruguay;4774
+1/8/2024;Aérea;EE.UU. y Canadá;54321
+1/8/2024;Aérea;Resto de América;62245
+1/8/2024;Aérea;Europa;79486
+1/8/2024;Aérea;Resto del mundo;5811
+1/8/2024;Fluvial/Marítima;Bolivia;2557
+1/8/2024;Fluvial/Marítima;Brasil;4756
+1/8/2024;Fluvial/Marítima;Chile;24
+1/8/2024;Fluvial/Marítima;Paraguay;5178
+1/8/2024;Fluvial/Marítima;Uruguay;22076
+1/8/2024;Fluvial/Marítima;EE.UU. y Canadá;13
+1/8/2024;Fluvial/Marítima;Resto de América;77
+1/8/2024;Fluvial/Marítima;Europa;21
+1/8/2024;Fluvial/Marítima;Resto del mundo;3
+1/8/2024;Terrestre;Bolivia;24401
+1/8/2024;Terrestre;Brasil;32164
+1/8/2024;Terrestre;Chile;58909
+1/8/2024;Terrestre;Paraguay;58012
+1/8/2024;Terrestre;Uruguay;18695
+1/8/2024;Terrestre;EE.UU. y Canadá;71
+1/8/2024;Terrestre;Resto de América;465
+1/8/2024;Terrestre;Europa;51
+1/8/2024;Terrestre;Resto del mundo;51
+1/9/2024;Aérea;Bolivia;3636
+1/9/2024;Aérea;Brasil;49077
+1/9/2024;Aérea;Chile;26622
+1/9/2024;Aérea;Paraguay;3412
+1/9/2024;Aérea;Uruguay;4501
+1/9/2024;Aérea;EE.UU. y Canadá;53550
+1/9/2024;Aérea;Resto de América;60913
+1/9/2024;Aérea;Europa;91168
+1/9/2024;Aérea;Resto del mundo;8632
+1/9/2024;Fluvial/Marítima;Bolivia;2652
+1/9/2024;Fluvial/Marítima;Brasil;5099
+1/9/2024;Fluvial/Marítima;Chile;38
+1/9/2024;Fluvial/Marítima;Paraguay;5439
+1/9/2024;Fluvial/Marítima;Uruguay;30659
+1/9/2024;Fluvial/Marítima;EE.UU. y Canadá;18
+1/9/2024;Fluvial/Marítima;Resto de América;112
+1/9/2024;Fluvial/Marítima;Europa;28
+1/9/2024;Fluvial/Marítima;Resto del mundo;4
+1/9/2024;Terrestre;Bolivia;22004
+1/9/2024;Terrestre;Brasil;39992
+1/9/2024;Terrestre;Chile;88973
+1/9/2024;Terrestre;Paraguay;60015
+1/9/2024;Terrestre;Uruguay;22082
+1/9/2024;Terrestre;EE.UU. y Canadá;133
+1/9/2024;Terrestre;Resto de América;958
+1/9/2024;Terrestre;Europa;158
+1/9/2024;Terrestre;Resto del mundo;87
+1/10/2024;Aérea;Bolivia;3074
+1/10/2024;Aérea;Brasil;67045
+1/10/2024;Aérea;Chile;34673
+1/10/2024;Aérea;Paraguay;3797
+1/10/2024;Aérea;Uruguay;3497
+1/10/2024;Aérea;EE.UU. y Canadá;54128
+1/10/2024;Aérea;Resto de América;61731
+1/10/2024;Aérea;Europa;85367
+1/10/2024;Aérea;Resto del mundo;9391
+1/10/2024;Fluvial/Marítima;Bolivia;1775
+1/10/2024;Fluvial/Marítima;Brasil;5651
+1/10/2024;Fluvial/Marítima;Chile;32
+1/10/2024;Fluvial/Marítima;Paraguay;5664
+1/10/2024;Fluvial/Marítima;Uruguay;40429
+1/10/2024;Fluvial/Marítima;EE.UU. y Canadá;82
+1/10/2024;Fluvial/Marítima;Resto de América;474
+1/10/2024;Fluvial/Marítima;Europa;124
+1/10/2024;Fluvial/Marítima;Resto del mundo;3
+1/10/2024;Terrestre;Bolivia;16277
+1/10/2024;Terrestre;Brasil;47829
+1/10/2024;Terrestre;Chile;118313
+1/10/2024;Terrestre;Paraguay;63457
+1/10/2024;Terrestre;Uruguay;30717
+1/10/2024;Terrestre;EE.UU. y Canadá;57
+1/10/2024;Terrestre;Resto de América;425
+1/10/2024;Terrestre;Europa;53
+1/10/2024;Terrestre;Resto del mundo;37
+1/11/2024;Aérea;Bolivia;2063
+1/11/2024;Aérea;Brasil;67899
+1/11/2024;Aérea;Chile;27874
+1/11/2024;Aérea;Paraguay;5048
+1/11/2024;Aérea;Uruguay;4352
+1/11/2024;Aérea;EE.UU. y Canadá;45443
+1/11/2024;Aérea;Resto de América;73647
+1/11/2024;Aérea;Europa;54480
+1/11/2024;Aérea;Resto del mundo;8009
+1/11/2024;Fluvial/Marítima;Bolivia;2032
+1/11/2024;Fluvial/Marítima;Brasil;6258
+1/11/2024;Fluvial/Marítima;Chile;123
+1/11/2024;Fluvial/Marítima;Paraguay;5641
+1/11/2024;Fluvial/Marítima;Uruguay;44554
+1/11/2024;Fluvial/Marítima;EE.UU. y Canadá;218
+1/11/2024;Fluvial/Marítima;Resto de América;1302
+1/11/2024;Fluvial/Marítima;Europa;330
+1/11/2024;Fluvial/Marítima;Resto del mundo;0
+1/11/2024;Terrestre;Bolivia;17623
+1/11/2024;Terrestre;Brasil;53805
+1/11/2024;Terrestre;Chile;130526
+1/11/2024;Terrestre;Paraguay;75992
+1/11/2024;Terrestre;Uruguay;34881
+1/11/2024;Terrestre;EE.UU. y Canadá;22
+1/11/2024;Terrestre;Resto de América;152
+1/11/2024;Terrestre;Europa;22
+1/11/2024;Terrestre;Resto del mundo;15
+1/12/2024;Aérea;Bolivia;1867
+1/12/2024;Aérea;Brasil;71039
+1/12/2024;Aérea;Chile;23358
+1/12/2024;Aérea;Paraguay;3472
+1/12/2024;Aérea;Uruguay;3524
+1/12/2024;Aérea;EE.UU. y Canadá;38655
+1/12/2024;Aérea;Resto de América;62794
+1/12/2024;Aérea;Europa;26345
+1/12/2024;Aérea;Resto del mundo;4787
+1/12/2024;Fluvial/Marítima;Bolivia;4045
+1/12/2024;Fluvial/Marítima;Brasil;20682
+1/12/2024;Fluvial/Marítima;Chile;513
+1/12/2024;Fluvial/Marítima;Paraguay;6571
+1/12/2024;Fluvial/Marítima;Uruguay;61116
+1/12/2024;Fluvial/Marítima;EE.UU. y Canadá;0
+1/12/2024;Fluvial/Marítima;Resto de América;0
+1/12/2024;Fluvial/Marítima;Europa;0
+1/12/2024;Fluvial/Marítima;Resto del mundo;0
+1/12/2024;Terrestre;Bolivia;19810
+1/12/2024;Terrestre;Brasil;64699
+1/12/2024;Terrestre;Chile;170173
+1/12/2024;Terrestre;Paraguay;65186
+1/12/2024;Terrestre;Uruguay;43872
+1/12/2024;Terrestre;EE.UU. y Canadá;136
+1/12/2024;Terrestre;Resto de América;825
+1/12/2024;Terrestre;Europa;122
+1/12/2024;Terrestre;Resto del mundo;42
+1/1/2025;Aérea;Bolivia;4517
+1/1/2025;Aérea;Brasil;182641
+1/1/2025;Aérea;Chile;30397
+1/1/2025;Aérea;Paraguay;2265
+1/1/2025;Aérea;Uruguay;12673
+1/1/2025;Aérea;EE.UU. y Canadá;55682
+1/1/2025;Aérea;Resto de América;108538
+1/1/2025;Aérea;Europa;60125
+1/1/2025;Aérea;Resto del mundo;9738
+1/1/2025;Fluvial/Marítima;Bolivia;6863
+1/1/2025;Fluvial/Marítima;Brasil;27945
+1/1/2025;Fluvial/Marítima;Chile;948
+1/1/2025;Fluvial/Marítima;Paraguay;20371
+1/1/2025;Fluvial/Marítima;Uruguay;116285
+1/1/2025;Fluvial/Marítima;EE.UU. y Canadá;504
+1/1/2025;Fluvial/Marítima;Resto de América;2114
+1/1/2025;Fluvial/Marítima;Europa;350
+1/1/2025;Fluvial/Marítima;Resto del mundo;83
+1/1/2025;Terrestre;Bolivia;50931
+1/1/2025;Terrestre;Brasil;421533
+1/1/2025;Terrestre;Chile;409962
+1/1/2025;Terrestre;Paraguay;212802
+1/1/2025;Terrestre;Uruguay;185947
+1/1/2025;Terrestre;EE.UU. y Canadá;305
+1/1/2025;Terrestre;Resto de América;3075
+1/1/2025;Terrestre;Europa;400
+1/1/2025;Terrestre;Resto del mundo;255
+1/2/2025;Aérea;Bolivia;3631
+1/2/2025;Aérea;Brasil;206604
+1/2/2025;Aérea;Chile;30759
+1/2/2025;Aérea;Paraguay;3679
+1/2/2025;Aérea;Uruguay;9081
+1/2/2025;Aérea;EE.UU. y Canadá;61587
+1/2/2025;Aérea;Resto de América;113148
+1/2/2025;Aérea;Europa;62304
+1/2/2025;Aérea;Resto del mundo;13380
+1/2/2025;Fluvial/Marítima;Bolivia;6855
+1/2/2025;Fluvial/Marítima;Brasil;30477
+1/2/2025;Fluvial/Marítima;Chile;889
+1/2/2025;Fluvial/Marítima;Paraguay;8874
+1/2/2025;Fluvial/Marítima;Uruguay;107929
+1/2/2025;Fluvial/Marítima;EE.UU. y Canadá;0
+1/2/2025;Fluvial/Marítima;Resto de América;0
+1/2/2025;Fluvial/Marítima;Europa;1
+1/2/2025;Fluvial/Marítima;Resto del mundo;0
+1/2/2025;Terrestre;Bolivia;49137
+1/2/2025;Terrestre;Brasil;466551
+1/2/2025;Terrestre;Chile;337105
+1/2/2025;Terrestre;Paraguay;129421
+1/2/2025;Terrestre;Uruguay;180583
+1/2/2025;Terrestre;EE.UU. y Canadá;199
+1/2/2025;Terrestre;Resto de América;1246
+1/2/2025;Terrestre;Europa;198
+1/2/2025;Terrestre;Resto del mundo;158
